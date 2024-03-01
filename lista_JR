@@ -195,11 +195,13 @@ http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/104
 http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/103
 #EXTINF:-1, PARAMOUNT NETWORK_02
 http://64.31.40.14:14058
-#EXTINF:-1, PREMIERE 01
+#EXTINF:-1, PREMIERE Club
 http://185.150.190.225:16460
-#EXTINF:-1, PREMIERE 02
+#EXTINF:-1, PREMIERE 2
 http://185.150.190.225:16464
-#EXTINF:-1, PREMIERE 05
+#EXTINF:-1, PREMIERE 3
+http://185.150.190.225:16468/
+#EXTINF:-1, PREMIERE 5
 http://185.150.190.225:16476
 #EXTINF:-1, PREMIERE ?
 http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/04
@@ -210,6 +212,8 @@ http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/102
 
 
 ###RRR###
+#EXTINF:-1,TV Real Madri
+https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist_1024x576.m3u8
 #EXTINF:-1, RECORD
 http://185.150.190.225:16907
 #EXTINF:-1, RECORD RJ
@@ -222,6 +226,8 @@ http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/08
 http://209.222.97.92:16907
 #EXTINF:-1, RECORD SP_03
 http://51.83.238.223:16141
+#EXTINF:-1,RECORD NEWS
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9ab1db0007a980a1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 ###SSS###
 #EXTINF:-1, SBT_01
@@ -236,6 +242,8 @@ http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/16
 http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/117
 #EXTINF:-1, SONY CHANNEL_02
 http://64.31.40.14:14063
+#EXTINF:-1,SPACE HD
+https://cr7v.short.gy/manotv/SPCHD/Index.m3u8
 #EXTINF:-1, SPORTV
 http://185.150.190.225:16525
 #EXTINF:-1, SPORTV SD
@@ -295,6 +303,8 @@ http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/88
 http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/99
 #EXTINF:-1, TNT Séries
 http://51.83.238.223:16131
+#EXTINF:-1,Turbo
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6014761dfb91870008ea6463/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 ###UUU###
 #EXTINF:-1, USA 
