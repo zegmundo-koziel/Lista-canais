@@ -22,12 +22,13 @@ http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/18
 http://51.83.238.223:16800
 #EXTINF:-1, BAND - TV Maringa
 http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/26
-#EXTINF:-1, BAND SPORTS_01
+#EXTINF:-1, BAND SPORTS 
 http://209.222.97.92:16484
 #EXTINF:-1, BAND SPORTS_02
-http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/23
-#EXTINF:-1, BAND SPORTS_03
 http://185.150.190.225:16484
+#EXTINF:-1, BAND SPORTS 2
+http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/23
+
 #EXTINF:-1, BBB
 http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/81
 
@@ -36,7 +37,7 @@ http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/81
 http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/118
 #EXTINF:-1, CINEMAX
 http://64.31.40.14:14031
-#EXTINF:-1, CNN BRASIL
+#EXTINF:-1, CNN BRASIL SD
 http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/22
 #EXTINF:-1, COMBATE
 http://209.222.97.92:16493
@@ -70,6 +71,10 @@ http://51.83.238.223:16555
 https://8mwx.short.gy/espn4/index.m3u8
 #EXTINF:-1, ESPN4_02
 http://51.83.238.223:16575
+#EXTINF:-1, ESPN5
+https://8mwx.short.gy/espn5/index.m3u8
+#EXTINF:-1, ESPN6
+https://8mwx.short.gy/espn6/index.m3u8
 
 ###FFF###
 #EXTINF:-1, FILM & ARTS
@@ -86,7 +91,7 @@ http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/38
 http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/39
 #EXTINF:-1, FUTEBOL LIVE_CONMEBOL_01
 http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/34
-#EXTINF:-1, FUTEBOL LLIVE_CONMEBOL_02
+#EXTINF:-1, FUTEBOL LIVE_CONMEBOL_02
 http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/35
 #EXTINF:-1, FUTEBOL LIVE_CONMEBOL_03
 http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/36
