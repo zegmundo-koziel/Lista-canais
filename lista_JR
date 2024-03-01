@@ -1,41 +1,79 @@
 #EXTM3U8
 ##AAA###
+#EXTINF:-1, A&E
+http://64.31.40.14:14002
+#EXTINF:-1, Adult Swim
+http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/91
+#EXTINF:-1,AMC
+http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/120
+#EXTINF:-1, ANIMAL PLANET
+http://51.83.238.223:16945
+#EXTINF:-1, ARTE 1
+http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/119
+#EXTINF:-1, AXN
+http://51.83.238.223:16941
+#EXTINF:-1, AXN_01
+http://64.31.40.14:14027
 
 ####BBB###
 #EXTINF:-1, BAND SP
 http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/18
+#EXTINF:-1, BAND SP_02
+http://51.83.238.223:16800
 #EXTINF:-1, BAND - TV Maringa
 http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/26
 #EXTINF:-1, BAND SPORTS_01
 http://209.222.97.92:16484
 #EXTINF:-1, BAND SPORTS_02
 http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/23
+#EXTINF:-1, BAND SPORTS_03
+http://185.150.190.225:16484
 #EXTINF:-1, BBB
 http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/81
 
 ###CCC###
+#EXTINF:-1, CANAL BRASIL
+http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/118
+#EXTINF:-1, CINEMAX
+http://64.31.40.14:14031
 #EXTINF:-1, CNN BRASIL
 http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/22
 #EXTINF:-1, COMBATE
 http://209.222.97.92:16493
+#EXTINF:-1, COMBATE_02
+http://51.83.238.223:16417
+#EXTINF:-1, COMBATE_03
+http://185.150.190.225:16493
 
 ###DDD###
 #EXTINF:-1, DISCOVERY
 http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/07
+#EXTINF:-1, DISCOVERY_01
+http://51.83.238.223:16957
+#EXTINF:-1, DISNEY CHANNEL
+http://51.83.238.223:16274
 
 ###EEE###
 #EXTINF:-1, ESPN_01
 http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/01
 #EXTINF:-1, ESPN_02
 https://8mwx.short.gy/espn/index.m3u8
+#EXTINF:-1, ESPN_03
+http://51.83.238.223:16515
 #EXTINF:-1, ESPN2
 https://8mwx.short.gy/espn2/index.m3u8
 #EXTINF:-1, ESPN3
 https://8mwx.short.gy/espn3/index.m3u8
+#EXTINF:-1, ESPN3_02
+http://51.83.238.223:16555
 #EXTINF:-1, ESPN4
 https://8mwx.short.gy/espn4/index.m3u8
+#EXTINF:-1, ESPN4_02
+http://51.83.238.223:16575
 
 ###FFF###
+#EXTINF:-1, FILM & ARTS
+http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/116
 #EXTINF:-1, FUTEBOL LIVE
 http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/13
 #EXTINF:-1, FUTEBOL LIVE_02
@@ -54,57 +92,131 @@ http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/35
 http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/36
 #EXTINF:-1, FUTEBOL LIVE_CONMEBOL_04
 http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/37
-
+#EXTINF:-1, FUTURA
+http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/115
 #EXTINF:-1, FX
 http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/20
+#EXTINF:-1, FX_02
+http://64.31.40.14:14043
 
 ###GGG###
+#EXTINF:-1, GLOBO
+http://51.83.238.223:16609
+#EXTINF:-1, GLOBO_02
+http://185.150.190.225:16020
+#EXTINF:-1, GLOBO_03
+http://185.150.190.225:16271
+#EXTINF:-1, GLOBO_04
+http://185.150.190.225:16275
+#EXTINF:-1, GLOBO_05
+http://64.31.40.14:14020
 #EXTINF:-1, Globo BA
 https://8mwx.short.gy/globoba/index.m3u8
+#EXTINF:-1, GLOBO BA_02
+http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/12
+#EXTINF:-1, GLOBO MG
+http://209.222.97.92:16263
+#EXTINF:-1, GLOBO MG_02
+http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/21
+#EXTINF:-1, GLOBO MG_03
+http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/29
 #EXTINF:-1, Globo RJ
 https://8mwx.short.gy/globorj/index.m3u8
+#EXTINF:-1, GLOBO RJ_02
+http://209.222.97.92:16271
+#EXTINF:-1, GLOBO RJ_03
+http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/05
 #EXTINF:-1, Globo SP
 https://8mwx.short.gy/globosp/index.m3u8
-#EXTINF:-1, GLOBO_01
-http://209.222.97.92:16263
-#EXTINF:-1, GLOBO_02
-http://209.222.97.92:16271
-#EXTINF:-1, GLOBO_03
+#EXTINF:-1, GLOBO SP_02
 http://209.222.97.92:16275
-#EXTINF:-1, GLOBO_04
-http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/05
-#EXTINF:-1, GLOBO_05
-http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/12
-#EXTINF:-1, GLOBO_06
-http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/21
-#EXTINF:-1, GLOBO_07
-http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/29
 #EXTINF:-1, GLOBO NEWS_01
 http://209.222.97.92:16436
 #EXTINF:-1, GLOBO NEWS_02
 http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/24
 #EXTINF:-1, GLOBO NEWS_03
 https://8mwx.short.gy/globonews/index.m3u8
+#EXTINF:-1, GLOBO NEWS_04
+http://51.83.238.223:16825
 #EXTINF:-1, GOAT
 https://bal02.vivartec.com.br:8088/hls/livechannel1.m3u8?ManoTV
+
+###HHH###
+#EXTINF:-1, HBO
+http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/111
+#EXTINF:-1, HBO_02
+http://51.83.238.223:16045
+#EXTINF:-1, HBO 2
+http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/113
+#EXTINF:-1, HBO +
+http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/109
+#EXTINF:-1, HBO +_02
+http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/114
+#EXTINF:-1, HBO ENG
+http://51.83.238.223:16051
+#EXTINF:-1, HBO FAMILY
+http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/112
+#EXTINF:-1, HBO MUNDI
+http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/110
+#EXTINF:-1, HBO POP
+http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/108
+#EXTINF:-1, HBO SIGNATURE
+http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/107
+#EXTINF:-1, HBO XTREME
+http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/106
 
 ###JJJ###
 #EXTINF:-1, JOVEM PAN NEWS
 http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/25
+
+###LLL###
+#EXTINF:-1, LIFE TIME
+http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/105
+
+###MMM###
+#EXTINF:-1, MEGAPIX
+http://64.31.40.14:14048
+#EXTINF:-1, MEGA TV
+http://64.31.40.14:14865
+#EXTINF:-1, MULTI SHOW
+http://64.31.40.14:14712
+
+###OOO###
+#EXTINF:-1, OFF
+http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/104
+
 ###PPP###
-#EXTINF:-1, PREMIERE_01
+#EXTINF:-1, PARAMOUNT NETWORK
+http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/103
+#EXTINF:-1, PARAMOUNT NETWORK_02
+http://64.31.40.14:14058
+#EXTINF:-1, PREMIERE 01
+http://185.150.190.225:16460
+#EXTINF:-1, PREMIERE 02
+http://185.150.190.225:16464
+#EXTINF:-1, PREMIERE 05
+http://185.150.190.225:16476
+#EXTINF:-1, PREMIERE ?
 http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/04
-#EXTINF:-1, PREMIERE_02
+#EXTINF:-1, PREMIERE ??
 http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/06
+#EXTINF:-1, PRIME
+http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/102
 
 
 ###RRR###
-#EXTINF:-1, RECORD_01
-http://209.222.97.92:16907
-#EXTINF:-1, RECORD_02
+#EXTINF:-1, RECORD
+http://185.150.190.225:16907
+#EXTINF:-1, RECORD RJ
 http://209.222.97.92:16910
-#EXTINF:-1, RECORD_03
+#EXTINF:-1, RECORD RJ_02
+http://51.83.238.223:16171
+#EXTINF:-1, RECORD SP
 http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/08
+#EXTINF:-1, RECORD SP_02
+http://209.222.97.92:16907
+#EXTINF:-1, RECORD SP_03
+http://51.83.238.223:16141
 
 ###SSS###
 #EXTINF:-1, SBT_01
@@ -112,35 +224,82 @@ http://209.222.97.92:16173
 #EXTINF:-1, SBT_02
 http://209.222.97.92:16176
 #EXTINF:-1, SBT_03
+http://185.150.190.225:16170
+#EXTINF:-1, SBT Rede Massa Maringá
 http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/16
-#EXTINF:-1, SPORTV 01_01
+#EXTINF:-1, SONY CHANNEL
+http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/117
+#EXTINF:-1, SONY CHANNEL_02
+http://64.31.40.14:14063
+#EXTINF:-1, SPORTV
+http://185.150.190.225:16525
+#EXTINF:-1, SPORTV SD
 http://209.222.97.92:16525
-#EXTINF:-1, SPORTV 01_02
-http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/14
-#EXTINF:-1, SPORTV 01_03
-http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/80
-#EXTINF:-1, SPORTV 01_04
+#EXTINF:-1, SPORTV SD_02
 https://8mwx.short.gy/sportv/index.m3u8
-#EXTINF:-1, SPORTV 02_01
+#EXTINF:-1, SPORTV HD
+http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/14
+#EXTINF:-1, SPORTV HD_02
+http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/80
+
+#EXTINF:-1, SPORTV 2_01
 http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/09
-#EXTINF:-1, SPORTV 02_02
+#EXTINF:-1, SPORTV 2_02
 https://8mwx.short.gy/sportv2/index.m3u8
+#EXTINF:-1, SPORTV 2_03
+http://51.83.238.223:16457
 #EXTINF:-1, SPORTV 3_01
 http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/28
 #EXTINF:-1, SPORTV 3_02
 https://8mwx.short.gy/sportv3/index.m3u8
+#EXTINF:-1, STAR CHANNEL
+http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/101
+#EXTINF:-1, STUDIO UNIVERSAL
+http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/100
 
 ###TTT###
+#EXTINF:-1, TCM
+http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/98
+#EXTINF:-1, TELECINE ACTION
+http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/97
+#EXTINF:-1, TELECINE ACTION_02
+http://51.83.238.223:16703
+#EXTINF:-1, TELECINE ACTION_03
+http://64.31.40.14:14056
+#EXTINF:-1, TELECINE CULT
+http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/96
+#EXTINF:-1, TELECINE FUN
+http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/95
+#EXTINF:-1, TELECINE PIPOCA
+http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/94
+#EXTINF:-1, TELECINE PIPOCA_02
+http://51.83.238.223:16763
+#EXTINF:-1, TELECINE PREMIUM
+http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/93
+#EXTINF:-1, TELECINE PREMIUM_02
+http://51.83.238.223:16510
+#EXTINF:-1, TELECINE TOUCH
+http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/92
 #EXTINF:-1, TNT_01
 http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/19
 #EXTINF:-1, TNT_02
 http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/27
 #EXTINF:-1, TNT NOVELAS
 http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/88
+#EXTINF:-1, TNT NOVELAS_02
+http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/99
+#EXTINF:-1, TNT Séries
+http://51.83.238.223:16131
 
 ###UUU###
 #EXTINF:-1, USA 
 http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/90
+#EXTINF:-1, UNIVERSAL
+http://51.83.238.223:16883
+
+###VVV###
+#EXTINF:-1, VIVA
+http://64.31.40.14:14884
 
 ###WWW###
 #EXTINF:-1, WB TV
