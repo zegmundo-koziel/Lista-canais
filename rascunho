@@ -31,10 +31,15 @@ http://51.79.17.168:14220/
 http://51.79.17.168:14410/
 #EXTINF:-1, TELECINA TOUCH
 http://51.79.17.168:14420/
-#EXTINF:-1, ??? history
+#EXTINF:-1, National Geographic
 http://51.79.17.168:14435/
 #EXTINF:-1, Nick Jr
 http://51.79.17.168:14451/
+#EXTINF:-1, Nickelodeon
+http://51.79.17.168:14457/
+
+#EXTINF:-1, TNT
+http://51.79.17.168:14658/
 
 
 #EXTINF:-1, A&E HD
