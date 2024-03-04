@@ -6,20 +6,14 @@ http://64.31.40.14:14002
 http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/91
 #EXTINF:-1,AMC
 http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/120
-#EXTINF:-1, ANIMAL PLANET
-http://51.83.238.223:16945
 #EXTINF:-1, ARTE 1
 http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/119
 #EXTINF:-1, AXN
-http://51.83.238.223:16941
-#EXTINF:-1, AXN_01
 http://64.31.40.14:14027
 
 ####BBB###
 #EXTINF:-1, BAND SP
 http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/18
-#EXTINF:-1, BAND SP_02
-http://51.83.238.223:16800
 #EXTINF:-1, BAND - TV Maringa
 http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/26
 #EXTINF:-1, BAND SPORTS 
@@ -42,35 +36,24 @@ http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/22
 #EXTINF:-1, COMBATE
 http://209.222.97.92:16493
 #EXTINF:-1, COMBATE_02
-http://51.83.238.223:16417
-#EXTINF:-1, COMBATE_03
 http://185.150.190.225:16493
 
 ###DDD###
 #EXTINF:-1, DISCOVERY
 http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/07
-#EXTINF:-1, DISCOVERY_01
-http://51.83.238.223:16957
-#EXTINF:-1, DISNEY CHANNEL
-http://51.83.238.223:16274
+
 
 ###EEE###
 #EXTINF:-1, ESPN_01
 http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/01
 #EXTINF:-1, ESPN_02
 https://8mwx.short.gy/espn/index.m3u8
-#EXTINF:-1, ESPN_03
-http://51.83.238.223:16515
 #EXTINF:-1, ESPN2
 https://8mwx.short.gy/espn2/index.m3u8
 #EXTINF:-1, ESPN3
 https://8mwx.short.gy/espn3/index.m3u8
-#EXTINF:-1, ESPN3_02
-http://51.83.238.223:16555
 #EXTINF:-1, ESPN4
 https://8mwx.short.gy/espn4/index.m3u8
-#EXTINF:-1, ESPN4_02
-http://51.83.238.223:16575
 #EXTINF:-1, ESPN5
 https://8mwx.short.gy/espn5/index.m3u8
 #EXTINF:-1, ESPN6
@@ -106,8 +89,6 @@ http://64.31.40.14:14043
 
 ###GGG###
 #EXTINF:-1, GLOBO
-http://51.83.238.223:16609
-#EXTINF:-1, GLOBO_02
 http://185.150.190.225:16020
 #EXTINF:-1, GLOBO_03
 http://185.150.190.225:16271
@@ -141,24 +122,18 @@ http://209.222.97.92:16436
 http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/24
 #EXTINF:-1, GLOBO NEWS_03
 https://8mwx.short.gy/globonews/index.m3u8
-#EXTINF:-1, GLOBO NEWS_04
-http://51.83.238.223:16825
 #EXTINF:-1, GOAT
 https://bal02.vivartec.com.br:8088/hls/livechannel1.m3u8?ManoTV
 
 ###HHH###
 #EXTINF:-1, HBO
 http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/111
-#EXTINF:-1, HBO_02
-http://51.83.238.223:16045
 #EXTINF:-1, HBO 2
 http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/113
 #EXTINF:-1, HBO +
 http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/109
 #EXTINF:-1, HBO +_02
 http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/114
-#EXTINF:-1, HBO ENG
-http://51.83.238.223:16051
 #EXTINF:-1, HBO FAMILY
 http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/112
 #EXTINF:-1, HBO MUNDI
@@ -218,14 +193,10 @@ https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist_1024x576.m3
 http://185.150.190.225:16907
 #EXTINF:-1, RECORD RJ
 http://209.222.97.92:16910
-#EXTINF:-1, RECORD RJ_02
-http://51.83.238.223:16171
 #EXTINF:-1, RECORD SP
 http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/08
 #EXTINF:-1, RECORD SP_02
 http://209.222.97.92:16907
-#EXTINF:-1, RECORD SP_03
-http://51.83.238.223:16141
 #EXTINF:-1,RECORD NEWS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9ab1db0007a980a1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
@@ -259,8 +230,6 @@ http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/80
 http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/09
 #EXTINF:-1, SPORTV 2_02
 https://8mwx.short.gy/sportv2/index.m3u8
-#EXTINF:-1, SPORTV 2_03
-http://51.83.238.223:16457
 #EXTINF:-1, SPORTV 3_01
 http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/28
 #EXTINF:-1, SPORTV 3_02
@@ -275,8 +244,6 @@ http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/100
 http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/98
 #EXTINF:-1, TELECINE ACTION
 http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/97
-#EXTINF:-1, TELECINE ACTION_02
-http://51.83.238.223:16703
 #EXTINF:-1, TELECINE ACTION_03
 http://64.31.40.14:14056
 #EXTINF:-1, TELECINE CULT
@@ -285,8 +252,6 @@ http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/96
 http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/95
 #EXTINF:-1, TELECINE PIPOCA
 http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/94
-#EXTINF:-1, TELECINE PIPOCA_02
-http://51.83.238.223:16763
 #EXTINF:-1, TELECINE PREMIUM
 http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/93
 #EXTINF:-1, TELECINE PREMIUM_02
@@ -301,16 +266,13 @@ http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/27
 http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/88
 #EXTINF:-1, TNT NOVELAS_02
 http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/99
-#EXTINF:-1, TNT Séries
-http://51.83.238.223:16131
 #EXTINF:-1,Turbo
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6014761dfb91870008ea6463/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 ###UUU###
 #EXTINF:-1, USA 
 http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/90
-#EXTINF:-1, UNIVERSAL
-http://51.83.238.223:16883
+
 
 ###VVV###
 #EXTINF:-1, VIVA
