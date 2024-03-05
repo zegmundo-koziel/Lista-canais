@@ -8,6 +8,8 @@ http://cdn.connectbr.com.br/AE/index.m3u8
 http://199.127.60.83:16002
 #EXTINF:-1, Adult Swim
 http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/91
+#EXTINF:-1, ANIMAL PLANET
+http://199.127.60.83:16192/
 #EXTINF:-1,AMC
 http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/120
 #EXTINF:-1, AMC_02
@@ -19,6 +21,8 @@ http://64.31.40.14:14027
 
 ####BBB###
 #EXTINF:-1, BAND
+http://sl1.xphost20.xyz:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/14
+#EXTINF:-1, BAND_02
 http://51.79.17.168:14726/
 #EXTINF:-1, BAND SP
 http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/18
@@ -39,6 +43,8 @@ http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/81
 http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/118
 #EXTINF:-1, CINEMAX
 http://64.31.40.14:14031
+#EXTINF:-1, CINEMAX_02
+http://sl1.xphost20.xyz:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/43
 #EXTINF:-1, CNN BRASIL SD
 http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/22
 #EXTINF:-1, CNN BRASIL
@@ -47,13 +53,19 @@ https://r-br.nxtv.com.br/CNN_BR/index.m3u8
 http://209.222.97.92:16493
 #EXTINF:-1, COMBATE_02
 http://185.150.190.225:16493
+#EXTINF:-1, COMBATE_03
+http://sl1.xphost20.xyz:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/1
 
 ###DDD###
 #EXTINF:-1, DISCOVERY
 http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/07
+#EXTINF:-1, DISNEY CHANNEL
+http://sl1.xphost20.xyz:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/3
 
 
 ###EEE###
+#EXTINF:-1, ESPN
+http://sl1.xphost20.xyz:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/7
 #EXTINF:-1, ESPN_01
 http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/01
 #EXTINF:-1, ESPN_02
@@ -94,6 +106,8 @@ http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/36
 http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/37
 #EXTINF:-1, FUTURA
 http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/115
+#EXTINF:-1,FX HD
+http://199.127.60.83:16043/
 #EXTINF:-1, FX
 http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/20
 #EXTINF:-1, FX_02
@@ -102,8 +116,14 @@ http://64.31.40.14:14043
 ###GGG###
 #EXTINF:-1, Ge Fast HD
 https://dxmy6u2c9ad0l.cloudfront.net/03.m3u8?ManoTV
-#EXTINF:-1, GLOBO
+#EXTINF:-1, GLOBO_06
+http://sl1.xphost20.xyz:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/2
+#EXTINF:-1, GLOBO_07
+http://sl1.xphost20.xyz:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/10
+#EXTINF:-1, GLOBO_08
 http://185.150.190.225:16020
+#EXTINF:-1, GLOBO_09
+http://199.127.60.83:16020
 #EXTINF:-1, GLOBO_03
 http://185.150.190.225:16271
 #EXTINF:-1, GLOBO_04
@@ -188,8 +208,8 @@ http://51.79.17.168:14461/
 http://64.31.40.14:14048
 #EXTINF:-1, MEGA PIX
 http://51.79.17.168:14410/
-#EXTINF:-1, MEGA TV
-http://64.31.40.14:14865
+#EXTINF:-1,MEGA PIX
+http://199.127.60.83:16048/
 #EXTINF:-1, MULTI SHOW
 http://64.31.40.14:14712
 
@@ -204,12 +224,16 @@ http://51.79.17.168:14472/
 http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/103
 #EXTINF:-1, PARAMOUNT NETWORK_02
 http://64.31.40.14:14058
+#EXTINF:-1,PARAMOUNT NETWORK_03
+http://199.127.60.83:16058/
 #EXTINF:-1, Pluto TV Esportes
 https://encurtador.com.br/glIM2
 #EXTINF:-1, Pluto TV Turbo
 https://encurtador.com.br/jpu68
 #EXTINF:-1, POP BOLA
 https://video01.soultv.com.br/popbola/popbola/playlist.m3u8
+#EXTINF:-1, PREMIERE CLUB
+http://sl1.xphost20.xyz:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/9
 #EXTINF:-1, PREMIERE Club
 http://185.150.190.225:16460
 #EXTINF:-1, PREMIERE 2
@@ -222,6 +246,8 @@ http://185.150.190.225:16476
 http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/04
 #EXTINF:-1, PREMIERE ??
 http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/06
+#EXTINF:-1, PREMIERE ???
+http://sl1.xphost20.xyz:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/4
 #EXTINF:-1, PRIME
 http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/102
 #EXTINF:-1, Prime box HD
@@ -247,7 +273,11 @@ https://encurtador.com.br/iFLRU
 http://cdn.connectbr.com.br/Record-News-HD/index.m3u8
 #EXTINF:-1, REDEVIDA
 http://51.79.17.168:14682/
+#EXTINF:-1, REDETV
+http://64.31.40.14:14865
 ###SSS###
+#EXTINF:-1, SBT
+http://199.127.60.83:16170/
 #EXTINF:-1, SBT_01
 http://209.222.97.92:16173
 #EXTINF:-1, SBT_02
@@ -260,9 +290,13 @@ http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/16
 http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/117
 #EXTINF:-1, SONY CHANNEL_02
 http://64.31.40.14:14063
+#EXTINF:-1, SONY CHANNEL_03
+http://199.127.60.83:16063/
 #EXTINF:-1,SPACE HD
 https://cr7v.short.gy/manotv/SPCHD/Index.m3u8
-#EXTINF:-1, SPACE 
+#EXTINF:-1, SPACE
+http://sl1.xphost20.xyz:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/44
+#EXTINF:-1, SPACE_02
 http://51.79.17.168:14562/
 #EXTINF:-1, SPORTV
 http://185.150.190.225:16525
@@ -298,6 +332,8 @@ http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/97
 http://64.31.40.14:14056
 #EXTINF:-1, TELECINE ACTION_03
 http://51.79.17.168:14220/
+#EXTINF:-1,TELECINE ACTION_04
+http://199.127.60.83:16056/
 #EXTINF:-1, TELECINE CULT
 http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/96
 #EXTINF:-1, TELECINE FUN
@@ -337,6 +373,8 @@ http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/90
 ###VVV###
 #EXTINF:-1, VIVA
 http://64.31.40.14:14884
+#EXTINF:-1, VIVA_02
+http://199.127.60.83:16884/
 
 ###WWW###
 #EXTINF:-1, WB TV
