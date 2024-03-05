@@ -48,6 +48,12 @@ https://8mwx.short.gy/RPCPR/index.m3u8
 https://8mwx.short.gy/NSCTVSC/index.m3u8
 #EXTINF:-1,SBT Rede Massa (PR)
 https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
+#EXTINF:-1, CLUBINHO fun.ᴴᴰ
+http://cdn.connectbr.com.br/Clubinho/index.m3u8
+#EXTINF:-1,TOPMIX TV (FILM EVANGELIC).ᴴᴰ
+https://video03.logicahost.com.br/filmestopmixtv/filmestopmixtv/chunklist.m3u8
+#EXTINF:-1,series Classicas
+http://168.205.87.198:8555/live/1492/123456/160.m3u8
 
 
 
