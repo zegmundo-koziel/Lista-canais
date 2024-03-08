@@ -257,6 +257,8 @@ http://209.222.97.92:16907
 https://encurtador.com.br/iFLRU
 #EXTINF:-1,RECORD NEWS
 http://cdn.connectbr.com.br/Record-News-HD/index.m3u8
+#EXTINF:-1, RED BULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1, REDEVIDA
 http://51.79.17.168:14682/
 #EXTINF:-1, REDETV
