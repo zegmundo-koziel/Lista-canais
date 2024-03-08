@@ -43,6 +43,8 @@ http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/118
 http://199.127.60.83:14682
 #EXTINF:-1, CINEMAX
 http://64.31.40.14:14031
+#EXTINF:-1, CLUBINHO fun.ᴴᴰ
+http://cdn.connectbr.com.br/Clubinho/index.m3u8
 #EXTINF:-1, CNN BRASIL SD
 http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/22
 #EXTINF:-1, CNN BRASIL
@@ -274,6 +276,8 @@ http://209.222.97.92:16176
 http://185.150.190.225:16170
 #EXTINF:-1, SBT Rede Massa Maringá
 http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/16
+#EXTINF:-1,SBT Rede Massa (PR)
+https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
 #EXTINF:-1, SONY CHANNEL
 http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/117
 #EXTINF:-1, SONY CHANNEL_02
@@ -344,6 +348,8 @@ http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/88
 http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/99
 #EXTINF:-1, TNT Novelas HD
 http://51.79.17.168:14613/
+#EXTINF:-1,TOPMIX TV (FILM EVANGELIC).ᴴᴰ
+https://video03.logicahost.com.br/filmestopmixtv/filmestopmixtv/chunklist.m3u8
 #EXTINF:-1, TOONCAST
 http://51.79.17.168:14669/
 #EXTINF:-1,Turbo
@@ -368,4 +374,9 @@ http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/89
 #EXTINF:-1, ZOOMOO KIDS
 http://51.79.17.168:14719/
 
+
+
+
+#EXTINF:-1,series Classicas
+http://168.205.87.198:8555/live/1492/123456/160.m3u8
 
