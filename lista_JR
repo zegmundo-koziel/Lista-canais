@@ -266,6 +266,8 @@ http://51.79.17.168:14682/
 #EXTINF:-1, REDETV
 http://64.31.40.14:14865
 ###SSS###
+#EXTINF:-1,SBT CIDADE VERDE FHD
+https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
 #EXTINF:-1, SBT
 http://199.127.60.83:16170/
 #EXTINF:-1, SBT_01
