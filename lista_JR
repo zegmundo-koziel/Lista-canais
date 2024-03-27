@@ -146,6 +146,11 @@ https://8mwx.short.gy/globorj/index.m3u8
 http://209.222.97.92:16271
 #EXTINF:-1, GLOBO RJ_03
 http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/05
+#EXTINF:-1,Globo RPC Curitiba
+https://8mwx.short.gy/RPCPR/index.m3u8
+#EXTINF:-1,Globo SC
+https://8mwx.short.gy/NSCTVSC/index.m3u8
+
 #EXTINF:-1, Globo SP
 https://8mwx.short.gy/globosp/index.m3u8
 #EXTINF:-1, GLOBO SP_02
@@ -275,6 +280,8 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 http://51.79.17.168:14682/
 #EXTINF:-1, REDETV
 http://64.31.40.14:14865
+#EXTINF:-1, Rede TV! PR HD
+https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8?ManoTV
 ###SSS###
 #EXTINF:-1,SBT CIDADE VERDE FHD
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
@@ -300,6 +307,8 @@ http://199.127.60.83:16063/
 https://cr7v.short.gy/manotv/SPCHD/Index.m3u8
 #EXTINF:-1, SPACE_02
 http://51.79.17.168:14562/
+#EXTINF:-1, SporTV 4K demopad
+http://s.apkwuv.xyz:80/demopadexchange/demopad/83814
 #EXTINF:-1, SPORTV
 http://185.150.190.225:16525
 #EXTINF:-1, SPORTV SD
@@ -366,6 +375,10 @@ https://video03.logicahost.com.br/filmestopmixtv/filmestopmixtv/chunklist.m3u8
 http://51.79.17.168:14669/
 #EXTINF:-1,Turbo
 https://encurtador.com.br/gtu39
+#EXTINF:-1,TV A Critica HD
+https://ythls.armelin.one/channel/UCnLSKfHkgZ6ujEYCO9jq7Sw.m3u8
+#EXTINF:-1,TV Correio
+https://ythls.armelin.one/channel/UCJ4uxK_mo6gNoqk9cyvgWkw.m3u8
 #EXTINF:-1, TV RATIMBUM
 http://51.79.17.168:14687/
 
