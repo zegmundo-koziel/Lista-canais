@@ -37,6 +37,8 @@ http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/23
 
 #EXTINF:-1, BBB
 http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/81
+#EXTINF:-1, Bora Filmes
+http://cdn.connectbr.com.br/Bora_Filmes/tracks-v1a1/mono.m3u8?ManoTV
 
 ###CCC###
 #EXTINF:-1, CANAL BRASIL
@@ -69,9 +71,13 @@ http://sl1.xphost20.xyz:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/3
 
 ###EEE###
 #EXTINF:-1, ESPN HD
+http://138.255.0.30/ESPN/index.m3u8
+#EXTINF:-1, ESPN FHD
 http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/01
-#EXTINF:-1, ESPN 2HD
+#EXTINF:-1, ESPN2 HD
 http://capivara.top:80/play/YmztvPOUaQu6G_uK8dDscH2uzXzheGcubxdV6JAgZevtbWdu59HfH3xecThTT4UD
+#EXTINF:-1, ESPN2 HD-02
+http://138.255.0.30/ESPN2/index.m3u8
 #EXTINF:-1, ESPN 
 https://8mwx.short.gy/espn/index.m3u8
 #EXTINF:-1, ESPN2
@@ -92,15 +98,15 @@ https://acesso.ecast.site:3186/live/esflixlive.m3u8
 https://fac26563.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNfSExT/playlist.m3u8
 #EXTINF:-1, FILM & ARTS
 http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/116
-#EXTINF:-1, FUTEBOL LIVE
+#EXTINF:-1, FUTEBOL, JOGO 01
 http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/13
-#EXTINF:-1, FUTEBOL LIVE_02
+#EXTINF:-1, FUTEBOL, JOGO 02
 http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/17
-#EXTINF:-1, FUTEBOL LIVE_03
+#EXTINF:-1, FUTEBOL, JOGO 03
 http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/33
-#EXTINF:-1, FUTEBOL LIVE_04
+#EXTINF:-1, FUTEBOL, JOGO 04
 http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/38
-#EXTINF:-1, FUTEBOL LIVE_05
+#EXTINF:-1, FUTEBOL, JOGO 05
 http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/39
 #EXTINF:-1, FUTEBOL LIVE_CONMEBOL_01
 http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/34
@@ -116,7 +122,7 @@ http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/115
 http://199.127.60.83:16043/
 #EXTINF:-1, FX
 http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/20
-#EXTINF:-1, FX_02
+#EXTINF:-1, FX HD
 http://64.31.40.14:14043
 
 ###GGG###
@@ -189,6 +195,8 @@ http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/107
 http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/106
 #EXTINF:-1, HBO XTREME_02
 http://51.79.17.168:14900/
+#EXTINF:-1, HTO FILMES
+https://cdn-2.nxplay.com.br/HTO_Filmes/tracks-v1a1/mono.m3u8
 
 ###JJJ###
 #EXTINF:-1, JOVEM PAN NEWS
@@ -213,12 +221,14 @@ http://51.79.17.168:14461/
 https://cc-7pakstinpyajo.akamaized.net/playlist1080p.m3u8
 
 ###MMM###
-#EXTINF:-1, MEGAPIX
+#EXTINF:-1, MEGAPIX HD
 http://64.31.40.14:14048
 #EXTINF:-1, MEGA PIX
 http://51.79.17.168:14410/
 #EXTINF:-1,MEGA PIX
 http://199.127.60.83:16048/
+#EXTINF:-1, MOVIE SPHERE
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u8?ManoTV
 #EXTINF:-1, MULTI SHOW
 http://64.31.40.14:14712
 
@@ -231,7 +241,7 @@ http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/104
 http://51.79.17.168:14472/
 #EXTINF:-1, PARAMOUNT NETWORK
 http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/103
-#EXTINF:-1, PARAMOUNT NETWORK_02
+#EXTINF:-1, PARAMOUNT NETWORK HD
 http://64.31.40.14:14058
 #EXTINF:-1,PARAMOUNT NETWORK_03
 http://199.127.60.83:16058/
@@ -245,8 +255,10 @@ https://video01.soultv.com.br/popbola/popbola/playlist.m3u8
 http://185.150.190.225:16460
 #EXTINF:-1, PREMIERE 2
 http://185.150.190.225:16464
-#EXTINF:-1, PREMIERE 3
+#EXTINF:-1, PREMIERE 3 HD
 http://185.150.190.225:16468/
+#EXTINF:-1,PREMIERE 4 HD
+http://185.150.190.225:16472/
 #EXTINF:-1, PREMIERE 5
 http://185.150.190.225:16476
 #EXTINF:-1, PREMIERE ?
@@ -299,15 +311,21 @@ http://185.150.190.225:16170
 http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/16
 #EXTINF:-1,SBT Rede Massa (PR)
 https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
+#EXTINF:-1, SONY ONE EMOCOES
+https://encurtador.com.br/duxDU
+#EXTINF:-1,Sony One Classics
+https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1, SONY CHANNEL
 http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/117
 #EXTINF:-1, SONY CHANNEL_02
 http://64.31.40.14:14063
 #EXTINF:-1, SONY CHANNEL_03
 http://199.127.60.83:16063/
+#EXTINF:-1, SPACE FHD
+http://138.255.0.30:80/SPACE/index.m3u8
 #EXTINF:-1,SPACE HD
 https://cr7v.short.gy/manotv/SPCHD/Index.m3u8
-#EXTINF:-1, SPACE_02
+#EXTINF:-1, SPACE
 http://51.79.17.168:14562/
 #EXTINF:-1, SPORTV
 http://185.150.190.225:16525
@@ -317,13 +335,13 @@ http://209.222.97.92:16525
 https://8mwx.short.gy/sportv/index.m3u8
 #EXTINF:-1, SPORTV HD
 http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/14
-#EXTINF:-1, SPORTV HD_02
+#EXTINF:-1, SPORTV 4K 
 http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/80
-#EXTINF:-1, SPORTV 2_01
+#EXTINF:-1, SPORTV 2 HD
 http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/09
 #EXTINF:-1, SPORTV 2_02
 https://8mwx.short.gy/sportv2/index.m3u8
-#EXTINF:-1, SPORTV 3_01
+#EXTINF:-1, SPORTV 3 HD
 http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/28
 #EXTINF:-1, SPORTV 3_02
 https://8mwx.short.gy/sportv3/index.m3u8
@@ -341,7 +359,7 @@ http://181.78.105.146:2000/play/a08m/index.m3u8
 http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/98
 #EXTINF:-1, TELECINE ACTION
 http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/97
-#EXTINF:-1, TELECINE ACTION_02
+#EXTINF:-1, TELECINE ACTION HD
 http://64.31.40.14:14056
 #EXTINF:-1, TELECINE ACTION_03
 http://51.79.17.168:14220/
@@ -359,6 +377,8 @@ http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/93
 http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/92
 #EXTINF:-1, TELECINE TOUCH_02
 http://51.79.17.168:14420/
+#EXTINF:-1, TNT HD
+http://138.255.0.30:80/TNT/index.m3u8
 #EXTINF:-1, TNT
 http://51.79.17.168:14658/
 #EXTINF:-1, TNT_01
@@ -397,6 +417,8 @@ http://64.31.40.14:14884
 #EXTINF:-1,Viva FHD
 http://199.127.60.83:16884
 ###WWW###
+#EXTINF:-1, Warner Channel HD
+http://138.255.1.90:8080/WARNER/tracks-v1a1/mono.m3u8
 #EXTINF:-1, WB TV
 http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/89
 ###ZZZ###
