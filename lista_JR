@@ -171,6 +171,19 @@ http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/24
 https://8mwx.short.gy/globonews/index.m3u8
 #EXTINF:-1, GOAT
 https://bal02.vivartec.com.br:8088/hls/livechannel1.m3u8?ManoTV
+#EXTINF:-1, Gospel Cartoon
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
+#EXTINF:-1, Gospel Music TV
+https://stmv1.srvif.com/gmusic/gmusic/playlist.m3u8
+#EXTINF:-1, Gostei Gospel TV
+https://59f1cbe63db89.streamlock.net:1443/redegostei/redegostei/playlist.m3u8
+#EXTINF:-1, Gospel Movies TV
+https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
+#EXTINF:-1, TV gospel 
+https://5cf4a2c2512a2.streamlock.net/8036/8036/playlist.m3u8
+
+
+
 
 ###HHH###
 #EXTINF:-1, HBO
@@ -298,6 +311,7 @@ http://51.79.17.168:14682/
 http://64.31.40.14:14865
 #EXTINF:-1, Rede TV! PR HD
 https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8?ManoTV
+
 ###SSS###
 #EXTINF:-1,SBT CIDADE VERDE FHD
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
@@ -313,6 +327,8 @@ http://185.150.190.225:16170
 http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/16
 #EXTINF:-1,SBT Rede Massa (PR)
 https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
+#EXTINF:-1, Series Classicas
+http://168.205.87.198:8555/live/1492/123456/160.m3u8
 #EXTINF:-1, SONY ONE EMOCOES
 https://encurtador.com.br/duxDU
 #EXTINF:-1,Sony One Classics
@@ -430,6 +446,4 @@ http://51.79.17.168:14719/
 
 
 
-#EXTINF:-1,series Classicas
-http://168.205.87.198:8555/live/1492/123456/160.m3u8
 
