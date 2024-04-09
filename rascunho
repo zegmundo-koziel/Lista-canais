@@ -284,6 +284,31 @@ https://cdn-1.nxplay.com.br/ZOOMOO_HD_NX_TK/index.m3u8
 #EXTINF;-1, Music BRAZA
 https://5cf4a2c2512a2.streamlock.net/8188/8188/playlist.m3u8
 
+################################################################# LA CASA DE PAPEL BERLIM 90 S01
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UURg0ai.png" group-title="Série | LA CASA D PAPEL BERLIM S01",S01 E01
+http://shd9.doramasapp.xyz/token/SHD9/146176/1x1.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UURg0ai.png" group-title="Série | LA CASA D PAPEL BERLIM S01",S01 E02
+http://shd9.doramasapp.xyz/token/SHD9/146176/1x2.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UURg0ai.png" group-title="Série | LA CASA D PAPEL BERLIM S01",S01 E03
+http://shd9.doramasapp.xyz/token/SHD9/146176/1x3.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UURg0ai.png" group-title="Série | LA CASA D PAPEL BERLIM S01",S01 E04
+http://shd9.doramasapp.xyz/token/SHD9/146176/1x4.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UURg0ai.png" group-title="Série | LA CASA D PAPEL BERLIM S01",S01 E05
+http://shd9.doramasapp.xyz/token/SHD9/146176/1x5.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UURg0ai.png" group-title="Série | LA CASA D PAPEL BERLIM S01",S01 E06
+http://shd9.doramasapp.xyz/token/SHD9/146176/1x6.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UURg0ai.png" group-title="Série | LA CASA D PAPEL BERLIM S01",S01 E07
+http://shd9.doramasapp.xyz/token/SHD9/146176/1x7.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UURg0ai.png" group-title="Série | LA CASA D PAPEL BERLIM S01",S01 E08
+http://shd9.doramasapp.xyz/token/SHD9/146176/1x8.mp4
 
 
 https://raw.githubusercontent.com/sandeu/Minha-lista/main/lista1.m3u
