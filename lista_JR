@@ -158,7 +158,6 @@ http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/05
 https://8mwx.short.gy/RPCPR/index.m3u8
 #EXTINF:-1,Globo SC
 https://8mwx.short.gy/NSCTVSC/index.m3u8
-
 #EXTINF:-1, Globo SP
 https://8mwx.short.gy/globosp/index.m3u8
 #EXTINF:-1, GLOBO SP_02
@@ -421,6 +420,10 @@ https://ythls.armelin.one/channel/UCnLSKfHkgZ6ujEYCO9jq7Sw.m3u8
 https://ythls.armelin.one/channel/UCJ4uxK_mo6gNoqk9cyvgWkw.m3u8
 #EXTINF:-1, TV RATIMBUM
 http://51.79.17.168:14687/
+#EXTINF:-1, Oportunidades TV HD
+http://maistop.net:80/live/free/free/2.m3u8
+#EXTINF:-1, Oportunidades TV FHD
+http://maistop.net:80/live/free/free/1.m3u8
 
 ###UUU###
 #EXTINF:-1, USA 
@@ -460,6 +463,8 @@ https://encurtador.com.br/lqABV
 http://168.205.87.198:8555/live/1492/123456/159.m3u8
 #EXTINF:-1, OS DEZ MANDAMENTOS
 https://d1w1no6ex9c1d6.cloudfront.net/playlist.m3u8
+#EXTINF;-1, Music BRAZA
+https://5cf4a2c2512a2.streamlock.net/8188/8188/playlist.m3u8
 
 
 
