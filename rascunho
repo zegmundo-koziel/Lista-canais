@@ -1,5 +1,5 @@
 #EXTM3U8
-EXTINF:-1, A&E
+#EXTINF:-1, A&E
 https://cdn-1.nxplay.com.br/AeE_BRASIL_TK/index.m3u8
 
 #EXTINF:-1, AMC
