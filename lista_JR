@@ -1,4 +1,4 @@
-#EXTM3U8
+Oi#EXTM3U8
 ##AAA###
 #EXTINF:-1, A&E
 http://64.31.40.14:14002
@@ -463,6 +463,7 @@ https://encurtador.com.br/lqABV
 http://168.205.87.198:8555/live/1492/123456/159.m3u8
 #EXTINF:-1, OS DEZ MANDAMENTOS
 https://d1w1no6ex9c1d6.cloudfront.net/playlist.m3u8
+
 #EXTINF;-1, Music BRAZA
 https://5cf4a2c2512a2.streamlock.net/8188/8188/playlist.m3u8
 
