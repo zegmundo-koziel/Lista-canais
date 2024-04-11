@@ -1,4 +1,472 @@
+#EXTM3U8
+##AAA###
+#EXTINF:-1, A&E
+http://64.31.40.14:14002
+#EXTINF:-1, A&E HD
+http://cdn.connectbr.com.br/AE/index.m3u8
+#EXTINF:-1, A&E HD
+http://199.127.60.83:16002
+#EXTINF:-1, Adult Swim
+http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/91
+#EXTINF:-1, ANIMAL PLANET
+http://199.127.60.83:16192/
+#EXTINF:-1,AMC
+http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/120
+#EXTINF:-1, AMC_02
+http://199.127.60.83:16004
+#EXTINF:-1, ARTE 1
+http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/119
+#EXTINF:-1, AXN
+http://64.31.40.14:14027
 
+####BBB###
+#EXTINF:-1, BAND
+http://51.79.17.168:14726/
+#EXTINF:-1, BAND NEWS HD
+http://cdn2.connectbr.com.br:80/Band-News/mono.m3u8?ManoTV
+#EXTINF:-1, BAND SP
+http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/18
+#EXTINF:-1, BAND - TV Maringa
+http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/26
+#EXTINF:-1, BAND SPORTS 
+http://209.222.97.92:16484
+#EXTINF:-1, BAND SPORTS_02
+http://185.150.190.225:16484
+#EXTINF:-1, BAND SPORTS 2
+http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/23
+
+#EXTINF:-1, BBB
+http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/81
+#EXTINF:-1, Bora Filmes
+http://cdn.connectbr.com.br/Bora_Filmes/tracks-v1a1/mono.m3u8?ManoTV
+
+###CCC###
+#EXTINF:-1, CANAL BRASIL
+http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/118
+#EXTINF:-1,CARTOONITO HD
+http://199.127.60.83:14682
+#EXTINF:-1, CINEMAX
+http://64.31.40.14:14031
+#EXTINF:-1, CLUBINHO fun.ᴴᴰ
+http://cdn.connectbr.com.br/Clubinho/index.m3u8
+#EXTINF:-1,CNN BRASIL HD
+https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8?ManoTV
+#EXTINF:-1, CNN BRASIL SD
+http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/22
+#EXTINF:-1, CNN BRASIL
+https://r-br.nxtv.com.br/CNN_BR/index.m3u8
+#EXTINF:-1, COMBATE HD
+http://209.222.97.92:16493
+#EXTINF:-1, COMBATE_02
+http://185.150.190.225:16493
+#EXTINF:-1, COMBATE_HD
+https://cr7v.short.gy/manotv/EVENTO/Index.m3u8
+
+###DDD###
+#EXTINF:-1, DISCOVERY
+http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/07
+#EXTINF:-1, DISNEY CHANNEL
+http://sl1.xphost20.xyz:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/3
+
+
+###EEE###
+#EXTINF:-1, ESPN HD
+http://138.255.0.30/ESPN/index.m3u8
+#EXTINF:-1, ESPN FHD
+http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/01
+#EXTINF:-1, ESPN2 HD
+http://capivara.top:80/play/YmztvPOUaQu6G_uK8dDscH2uzXzheGcubxdV6JAgZevtbWdu59HfH3xecThTT4UD
+#EXTINF:-1, ESPN2 HD-02
+http://138.255.0.30/ESPN2/index.m3u8
+#EXTINF:-1, ESPN 
+https://8mwx.short.gy/espn/index.m3u8
+#EXTINF:-1, ESPN2
+https://8mwx.short.gy/espn2/index.m3u8
+#EXTINF:-1, ESPN3
+https://8mwx.short.gy/espn3/index.m3u8
+#EXTINF:-1, ESPN4
+https://8mwx.short.gy/espn4/index.m3u8
+#EXTINF:-1, ESPN5
+https://8mwx.short.gy/espn5/index.m3u8
+#EXTINF:-1, ESPN6
+https://8mwx.short.gy/espn6/index.m3u8
+#EXTINF:-1, ESFLIX TV
+https://acesso.ecast.site:3186/live/esflixlive.m3u8
+
+###FFF###
+#EXTINF:-1, FIFA PLUS
+https://fac26563.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNfSExT/playlist.m3u8
+#EXTINF:-1, FILM & ARTS
+http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/116
+#EXTINF:-1, FUTEBOL, JOGO 01
+http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/13
+#EXTINF:-1, FUTEBOL, JOGO 02
+http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/17
+#EXTINF:-1, FUTEBOL, JOGO 03
+http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/33
+#EXTINF:-1, FUTEBOL, JOGO 04
+http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/38
+#EXTINF:-1, FUTEBOL, JOGO 05
+http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/39
+#EXTINF:-1, FUTEBOL LIVE_CONMEBOL_01
+http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/34
+#EXTINF:-1, FUTEBOL LIVE_CONMEBOL_02
+http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/35
+#EXTINF:-1, FUTEBOL LIVE_CONMEBOL_03
+http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/36
+#EXTINF:-1, FUTEBOL LIVE_CONMEBOL_04
+http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/37
+#EXTINF:-1, FUTURA
+http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/115
+#EXTINF:-1,FX HD
+http://199.127.60.83:16043/
+#EXTINF:-1, FX
+http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/20
+#EXTINF:-1, FX HD
+http://64.31.40.14:14043
+
+###GGG###
+#EXTINF:-1, Ge Fast HD
+https://dxmy6u2c9ad0l.cloudfront.net/03.m3u8?ManoTV
+#EXTINF:-1, GLOBO_08
+http://185.150.190.225:16020
+#EXTINF:-1, GLOBO_09
+http://199.127.60.83:16020
+#EXTINF:-1, GLOBO_03
+http://185.150.190.225:16271
+#EXTINF:-1, GLOBO_04
+http://185.150.190.225:16275
+#EXTINF:-1, GLOBO_05
+http://64.31.40.14:14020
+#EXTINF:-1, Globo BA
+https://8mwx.short.gy/globoba/index.m3u8
+#EXTINF:-1, GLOBO BA_02
+http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/12
+#EXTINF:-1, GLOBO MG
+http://209.222.97.92:16263
+#EXTINF:-1, GLOBO MG_02
+http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/21
+#EXTINF:-1, GLOBO MG_03
+http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/29
+#EXTINF:-1, Globo RJ
+https://8mwx.short.gy/globorj/index.m3u8
+#EXTINF:-1, GLOBO RJ_02
+http://209.222.97.92:16271
+#EXTINF:-1, GLOBO RJ_03
+http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/05
+#EXTINF:-1,Globo RPC Curitiba
+https://8mwx.short.gy/RPCPR/index.m3u8
+#EXTINF:-1,Globo SC
+https://8mwx.short.gy/NSCTVSC/index.m3u8
+#EXTINF:-1, Globo SP
+https://8mwx.short.gy/globosp/index.m3u8
+#EXTINF:-1, GLOBO SP_02
+http://209.222.97.92:16275
+#EXTINF:-1, GLOBO NEWS FHD
+http://209.222.97.92:16436
+#EXTINF:-1, GLOBO NEWS_02
+http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/24
+#EXTINF:-1, GLOBO NEWS_03
+https://8mwx.short.gy/globonews/index.m3u8
+#EXTINF:-1, GOAT
+https://bal02.vivartec.com.br:8088/hls/livechannel1.m3u8?ManoTV
+#EXTINF:-1, Gospel Cartoon
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
+#EXTINF:-1, Gospel Music TV
+https://stmv1.srvif.com/gmusic/gmusic/playlist.m3u8
+#EXTINF:-1, Gostei Gospel TV
+https://59f1cbe63db89.streamlock.net:1443/redegostei/redegostei/playlist.m3u8
+#EXTINF:-1, Gospel Movies TV
+https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
+#EXTINF:-1, TV gospel 
+https://5cf4a2c2512a2.streamlock.net/8036/8036/playlist.m3u8
+
+
+
+
+###HHH###
+#EXTINF:-1, HBO
+http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/111
+#EXTINF:-1, HBO 2
+http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/113
+#EXTINF:-1, HBO +
+http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/109
+#EXTINF:-1, HBO +_02
+http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/114
+#EXTINF:-1, HBO FAMILY
+http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/112
+#EXTINF:-1, HBO MUNDI
+http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/110
+#EXTINF:-1, HBO POP
+http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/108
+#EXTINF:-1, HBO POP_02
+http://51.79.17.168:14820/
+#EXTINF:-1, HBO SIGNATURE
+http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/107
+#EXTINF:-1, HBO XTREME
+http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/106
+#EXTINF:-1, HBO XTREME_02
+http://51.79.17.168:14900/
+#EXTINF:-1, HTO FILMES
+https://cdn-2.nxplay.com.br/HTO_Filmes/tracks-v1a1/mono.m3u8
+
+###JJJ###
+#EXTINF:-1, JOVEM PAN NEWS
+http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/25
+#EXTINF:-1,JP NEWS HD
+https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_10.m3u8
+
+###LLL###
+#EXTINF:-1, LIFE TIME
+http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/105
+
+###NNN###
+#EXTINF:-1, National Geographic
+http://51.79.17.168:14435/
+#EXTINF:-1, Nick Jr
+http://51.79.17.168:14451/
+#EXTINF:-1, Nickelodeon
+http://51.79.17.168:14457/
+#EXTINF:-1, NOVO TEMPO
+http://51.79.17.168:14461/
+#EXTINF:-1, NEW BRASIL FHD
+https://cc-7pakstinpyajo.akamaized.net/playlist1080p.m3u8
+
+###MMM###
+#EXTINF:-1, MEGAPIX HD
+http://64.31.40.14:14048
+#EXTINF:-1, MEGA PIX
+http://51.79.17.168:14410/
+#EXTINF:-1,MEGA PIX
+http://199.127.60.83:16048/
+#EXTINF:-1, Ministério Infantil TV
+https://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8
+#EXTINF:-1, MOVIE SPHERE
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u8?ManoTV
+#EXTINF:-1, MULTI SHOW
+http://64.31.40.14:14712
+
+###OOO###
+#EXTINF:-1, OFF
+http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/104
+
+###PPP###
+#EXTINF:-1, PAI ETERNO
+http://51.79.17.168:14472/
+#EXTINF:-1, PARAMOUNT NETWORK
+http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/103
+#EXTINF:-1, PARAMOUNT NETWORK HD
+http://64.31.40.14:14058
+#EXTINF:-1,PARAMOUNT NETWORK_03
+http://199.127.60.83:16058/
+#EXTINF:-1, Pluto TV Esportes
+https://encurtador.com.br/glIM2
+#EXTINF:-1, Pluto TV Turbo
+https://encurtador.com.br/jpu68
+#EXTINF:-1, POP BOLA
+https://video01.soultv.com.br/popbola/popbola/playlist.m3u8
+#EXTINF:-1, PREMIERE Club
+http://185.150.190.225:16460
+#EXTINF:-1, PREMIERE 2
+http://185.150.190.225:16464
+#EXTINF:-1, PREMIERE 3 HD
+http://185.150.190.225:16468/
+#EXTINF:-1,PREMIERE 4 HD
+http://185.150.190.225:16472/
+#EXTINF:-1, PREMIERE 5
+http://185.150.190.225:16476
+#EXTINF:-1, PREMIERE ?
+http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/04
+#EXTINF:-1, PREMIERE ??
+http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/06
+#EXTINF:-1, PRIME
+http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/102
+#EXTINF:-1, Prime box HD
+http://cdn2.connectbr.com.br/Prime/index.m3u8
+
+
+###RRR###
+#EXTINF:-1,TV Real Madri
+https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist_1024x576.m3u8
+#EXTINF:-1, Receita Fast HD
+https://dl27mmj7tlts0.cloudfront.net/03.m3u8?ManoTV
+#EXTINF:-1, RECORD
+http://185.150.190.225:16907
+#EXTINF:-1, RECORD RJ
+http://209.222.97.92:16910
+#EXTINF:-1, RECORD SP
+http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/08
+#EXTINF:-1, RECORD SP_02
+http://209.222.97.92:16907
+#EXTINF:-1,RECORD NEWS
+https://encurtador.com.br/iFLRU
+#EXTINF:-1,RECORD NEWS
+http://cdn.connectbr.com.br/Record-News-HD/index.m3u8
+#EXTINF:-1, RED BULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:-1, REDEVIDA
+http://51.79.17.168:14682/
+#EXTINF:-1, REDETV
+http://64.31.40.14:14865
+#EXTINF:-1, Rede TV! PR HD
+https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8?ManoTV
+
+###SSS###
+#EXTINF:-1,SBT CIDADE VERDE FHD
+https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
+#EXTINF:-1, SBT
+http://199.127.60.83:16170/
+#EXTINF:-1, SBT_01
+http://209.222.97.92:16173
+#EXTINF:-1, SBT_02
+http://209.222.97.92:16176
+#EXTINF:-1, SBT_03
+http://185.150.190.225:16170
+#EXTINF:-1, SBT Rede Massa Maringá
+http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/16
+#EXTINF:-1,SBT Rede Massa (PR)
+https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
+#EXTINF:-1, Series Classicas
+http://168.205.87.198:8555/live/1492/123456/160.m3u8
+#EXTINF:-1, SONY ONE EMOCOES
+https://encurtador.com.br/duxDU
+#EXTINF:-1,Sony One Classics
+https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1, SONY CHANNEL
+http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/117
+#EXTINF:-1, SONY CHANNEL_02
+http://64.31.40.14:14063
+#EXTINF:-1, SONY CHANNEL_03
+http://199.127.60.83:16063/
+#EXTINF:-1, SPACE FHD
+http://138.255.0.30:80/SPACE/index.m3u8
+#EXTINF:-1,SPACE HD
+https://cr7v.short.gy/manotv/SPCHD/Index.m3u8
+#EXTINF:-1, SPACE
+http://51.79.17.168:14562/
+#EXTINF:-1, SPORTV
+http://185.150.190.225:16525
+#EXTINF:-1, SPORTV SD
+http://209.222.97.92:16525
+#EXTINF:-1, SPORTV SD_02
+https://8mwx.short.gy/sportv/index.m3u8
+#EXTINF:-1, SPORTV HD
+http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/14
+#EXTINF:-1, SPORTV 4K 
+http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/80
+#EXTINF:-1, SPORTV 2 HD
+http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/09
+#EXTINF:-1, SPORTV 2_02
+https://8mwx.short.gy/sportv2/index.m3u8
+#EXTINF:-1, SPORTV 3 HD
+http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/28
+#EXTINF:-1, SPORTV 3_02
+https://8mwx.short.gy/sportv3/index.m3u8
+#EXTINF:-1, STAR CHANNEL
+http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/101
+#EXTINF:-1, STAR CHANNEL sd
+http://51.79.17.168:14585/
+#EXTINF:-1, STUDIO UNIVERSAL
+http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/100
+#EXTINF:-1, SKY Sports
+http://181.78.105.146:2000/play/a08m/index.m3u8
+
+###TTT###
+#EXTINF:-1, TCM
+http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/98
+#EXTINF:-1, TELECINE ACTION
+http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/97
+#EXTINF:-1, TELECINE ACTION HD
+http://64.31.40.14:14056
+#EXTINF:-1, TELECINE ACTION_03
+http://51.79.17.168:14220/
+#EXTINF:-1,TELECINE ACTION_04
+http://199.127.60.83:16056/
+#EXTINF:-1, TELECINE CULT
+http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/96
+#EXTINF:-1, TELECINE FUN
+http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/95
+#EXTINF:-1, TELECINE PIPOCA
+http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/94
+#EXTINF:-1, TELECINE PREMIUM
+http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/93
+#EXTINF:-1, TELECINE TOUCH
+http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/92
+#EXTINF:-1, TELECINE TOUCH_02
+http://51.79.17.168:14420/
+#EXTINF:-1, TNT HD
+http://138.255.0.30:80/TNT/index.m3u8
+#EXTINF:-1, TNT
+http://51.79.17.168:14658/
+#EXTINF:-1, TNT_01
+http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/19
+#EXTINF:-1, TNT_02
+http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/27
+#EXTINF:-1, TNT NOVELAS
+http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/88
+#EXTINF:-1, TNT NOVELAS_02
+http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/99
+#EXTINF:-1, TNT Novelas HD
+http://51.79.17.168:14613/
+#EXTINF:-1,TOPMIX TV (FILM EVANGELIC).ᴴᴰ
+https://video03.logicahost.com.br/filmestopmixtv/filmestopmixtv/chunklist.m3u8
+#EXTINF:-1, TOONCAST
+http://51.79.17.168:14669/
+#EXTINF:-1,Turbo
+https://encurtador.com.br/gtu39
+#EXTINF:-1,TV A Critica HD
+https://ythls.armelin.one/channel/UCnLSKfHkgZ6ujEYCO9jq7Sw.m3u8
+#EXTINF:-1,TV Correio
+https://ythls.armelin.one/channel/UCJ4uxK_mo6gNoqk9cyvgWkw.m3u8
+#EXTINF:-1, TV RATIMBUM
+http://51.79.17.168:14687/
+#EXTINF:-1, Oportunidades TV HD
+http://maistop.net:80/live/free/free/2.m3u8
+#EXTINF:-1, Oportunidades TV FHD
+http://maistop.net:80/live/free/free/1.m3u8
+
+###UUU###
+#EXTINF:-1, USA 
+http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/90
+#EXTINF:-1,UFC Fightpass
+http://150.136.62.38:8880/channel/44b00ebb/index.m3u8?q=1704444391509
+
+
+###VVV###
+#EXTINF:-1, VIVA
+http://64.31.40.14:14884
+#EXTINF:-1,Viva FHD
+http://199.127.60.83:16884
+###WWW###
+#EXTINF:-1, Warner Channel HD
+http://138.255.1.90:8080/WARNER/tracks-v1a1/mono.m3u8
+#EXTINF:-1, WB TV
+http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/89
+###ZZZ###
+#EXTINF:-1, ZOOMOO KIDS
+http://51.79.17.168:14719/
+
+###INFANTIL###
+#EXTINF:-1, PATRULHA CANINA
+https://r.mjh.nz/PlutoTV/6495c7ad115d060008bf6df0-alt.m3u8
+#EXTINF:-1, Clubinho Fun
+http://cdn.connectbr.com.br/Clubinho/index.m3u8
+#EXTINF:-1, NICK
+https://r.mjh.nz/PlutoTV/60f5fabf0721880007cd50e3-alt.m3u8
+#EXTINF:-1, KIDS
+https://encurtador.com.br/hnRU7
+#EXTINF:-1, NICK JR CLUB
+https://encurtador.com.br/dtAN7
+#EXTINF:-1, JUNIOR
+https://encurtador.com.br/lqABV
+#EXTINF:-1, CHAVES
+http://168.205.87.198:8555/live/1492/123456/159.m3u8
+#EXTINF:-1, OS DEZ MANDAMENTOS
+https://d1w1no6ex9c1d6.cloudfront.net/playlist.m3u8
+
+
+#EXTINF:-1, Music BRAZA
+https://5cf4a2c2512a2.streamlock.net/8188/8188/playlist.m3u8
 
 
 
