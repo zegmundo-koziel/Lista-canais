@@ -376,5 +376,40 @@ http://shd9.doramasapp.xyz/token/SHD9/146176/1x7.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UURg0ai.png" group-title="Série | LA CASA D PAPEL BERLIM S01",S01 E08
 http://shd9.doramasapp.xyz/token/SHD9/146176/1x8.mp4
 
+##CANAIS GLOBO###
+#EXTINF:-1 tvg-id="tvglobo" tvg-name="GLOBO" tvg-logo="https://encurtador.com.br/ikuxQ" group-title="CANAIS | GLOBO",GLOBO-02
+http://185.150.190.225:16271
+#EXTINF:-1 tvg-id="tvglobo" tvg-name="GLOBO" tvg-logo="https://encurtador.com.br/ikuxQ" group-title="CANAIS | GLOBO",GLOBO-03
+http://64.31.40.14:14020
+#EXTINF:-1 tvg-id="tvglobo" tvg-name="GLOBO" tvg-logo="https://encurtador.com.br/ikuxQ" group-title="CANAIS | GLOBO",GLOBO-04
+http://185.150.190.225:16020
+#EXTINF:-1 tvg-id="tvglobo" tvg-name="GLOBO" tvg-logo="https://encurtador.com.br/ikuxQ" group-title="CANAIS | GLOBO",GLOBO-05
+http://199.127.60.83:16020
+#EXTINF:-1 tvg-id="tvgloboba" tvg-name="GLOBO" tvg-logo="https://encurtador.com.br/ikuxQ" group-title="CANAIS | GLOBO",GLOBO BA
+http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/12
+#EXTINF:-1 tvg-id="tvglobomg" tvg-name="GLOBO" tvg-logo="https://encurtador.com.br/ikuxQ" group-title="CANAIS | GLOBO",GLOBO MG
+http://209.222.97.92:16263
+#EXTINF:-1 tvg-id="tvglobomg" tvg-name="GLOBO" tvg-logo="https://encurtador.com.br/ikuxQ" group-title="CANAIS | GLOBO",GLOBO MG-02
+http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/21
+#EXTINF:-1 tvg-id="tvglobomg" tvg-name="GLOBO" tvg-logo="https://encurtador.com.br/ikuxQ" group-title="CANAIS | GLOBO",GLOBO MG-03
+http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/29
+#EXTINF:-1 tvg-id="tvgloborj" tvg-name="GLOBO" tvg-logo="https://encurtador.com.br/ikuxQ" group-title="CANAIS | GLOBO",GLOBO RJ
+https://8mwx.short.gy/globorj/index.m3u8
+#EXTINF:-1 tvg-id="tvgloborj" tvg-name="GLOBO" tvg-logo="https://encurtador.com.br/ikuxQ" group-title="CANAIS | GLOBO",GLOBO RJ-02
+http://138.255.1.90:8080/GLOBORJ/index.m3u8
+#EXTINF:-1 tvg-id="tvgloborj" tvg-name="GLOBO" tvg-logo="https://encurtador.com.br/ikuxQ" group-title="CANAIS | GLOBO",GLOBO RJ-03
+http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/05
+#EXTINF:-1 tvg-id="tvgloborj" tvg-name="GLOBO" tvg-logo="https://encurtador.com.br/ikuxQ" group-title="CANAIS | GLOBO",GLOBO RJ-04
+http://209.222.97.92:16271
+#EXTINF:-1 tvg-id="tvglobopr" tvg-name="GLOBO" tvg-logo="https://i.imgur.com/h4PzuTy.png" group-title="CANAIS | GLOBO",GLOBO RPC Curitiba
+https://8mwx.short.gy/RPCPR/index.m3u8
+#EXTINF:-1 tvg-id="tvglobosc" tvg-name="GLOBO" tvg-logo="https://i.imgur.com/sGlWS38.png" group-title="CANAIS | GLOBO",GLOBO RPC Curitiba
+https://8mwx.short.gy/NSCTVSC/index.m3u8
+#EXTINF:-1 tvg-id="tvglobosp" tvg-name="GLOBO" tvg-logo="https://encurtador.com.br/ikuxQ" group-title="CANAIS | GLOBO",GLOBO SP
+https://8mwx.short.gy/globosp/index.m3u8
+#EXTINF:-1 tvg-id="tvglobosp" tvg-name="GLOBO" tvg-logo="https://encurtador.com.br/ikuxQ" group-title="CANAIS | GLOBO",GLOBO SP-02
+https://cdn-2.nxplay.com.br/GLOBO_SP_TK/index.m3u8
+#EXTINF:-1 tvg-id="tvglobosp" tvg-name="GLOBO" tvg-logo="https://encurtador.com.br/ikuxQ" group-title="CANAIS | GLOBO",GLOBO SP-03
+http://209.222.97.92:16275
 
 
