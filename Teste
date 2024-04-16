@@ -401,9 +401,9 @@ http://138.255.1.90:8080/GLOBORJ/index.m3u8
 http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/05
 #EXTINF:-1 tvg-id="tvgloborj" tvg-name="GLOBO" tvg-logo="https://encurtador.com.br/ikuxQ" group-title="CANAIS | GLOBO",GLOBO RJ-04
 http://209.222.97.92:16271
-#EXTINF:-1 tvg-id="tvglobopr" tvg-name="GLOBO" tvg-logo="https://i.imgur.com/h4PzuTy.png" group-title="CANAIS | GLOBO",GLOBO RPC Curitiba
+#EXTINF:-1 tvg-id="tvglobopr"  tvg-logo="https://i.imgur.com/h4PzuTy.png" group-title="CANAIS | GLOBO",GLOBO RPC Curitiba
 https://8mwx.short.gy/RPCPR/index.m3u8
-#EXTINF:-1 tvg-id="tvglobosc" tvg-name="GLOBO" tvg-logo="https://i.imgur.com/sGlWS38.png" group-title="CANAIS | GLOBO",GLOBO RPC Curitiba
+#EXTINF:-1 tvg-id="tvglobosc"  tvg-logo="https://i.imgur.com/sGlWS38.png" group-title="CANAIS | GLOBO",GLOBO NSC Floripa
 https://8mwx.short.gy/NSCTVSC/index.m3u8
 #EXTINF:-1 tvg-id="tvglobosp" tvg-name="GLOBO" tvg-logo="https://encurtador.com.br/ikuxQ" group-title="CANAIS | GLOBO",GLOBO SP
 https://8mwx.short.gy/globosp/index.m3u8
