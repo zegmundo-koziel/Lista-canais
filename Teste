@@ -377,9 +377,9 @@ http://shd9.doramasapp.xyz/token/SHD9/146176/1x7.mp4
 http://shd9.doramasapp.xyz/token/SHD9/146176/1x8.mp4
 
 ##CANAIS GLOBO###
-#EXTINF:-1 tvg-id="tvglobo" tvg-name="GLOBO" tvg-logo="https://encurtador.com.br/ikuxQ" group-title="CANAIS | GLOBO",GLOBO-02
+#EXTINF:-1 tvg-id="tvglobo" tvg-logo="https://encurtador.com.br/ikuxQ" group-title="CANAIS | GLOBO",GLOBO-02
 http://185.150.190.225:16271
-#EXTINF:-1 tvg-id="tvglobo" tvg-name="GLOBO" tvg-logo="https://encurtador.com.br/ikuxQ" group-title="CANAIS | GLOBO",GLOBO-03
+#EXTINF:-1 tvg-id="tvglobo" tvg-logo="https://encurtador.com.br/ikuxQ" group-title="CANAIS | GLOBO",GLOBO-03
 http://64.31.40.14:14020
 #EXTINF:-1 tvg-id="tvglobo" tvg-name="GLOBO" tvg-logo="https://encurtador.com.br/ikuxQ" group-title="CANAIS | GLOBO",GLOBO-04
 http://185.150.190.225:16020
