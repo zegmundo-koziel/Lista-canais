@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="http://i.imgur.com/n9ASqkP.png" group-title="Documentário",Animal Planet FHD
+http://pfsv.io:80/paulorogerio/pr2585/164.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/n9ASqkP.png" group-title="Documentário",Animal Planet FHD (alter)
+http://pfsv.io:80/paulorogerio/pr2585/30248.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/n9ASqkP.png" group-title="Documentário",Animal Planet HD
+http://pfsv.io:80/paulorogerio/pr2585/179.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/n9ASqkP.png" group-title="Documentário",Animal Planet HD (alter)
+http://pfsv.io:80/paulorogerio/pr2585/194.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/n9ASqkP.png" group-title="Documentário",Animal Planet 4K
+http://pfsv.io:80/paulorogerio/pr2585/588.ts
 
 #EXTINF:-1,Sky Sports Football HD
 http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/7336/index.m3u8
@@ -221,21 +231,7 @@ http://pfsv.io:80/paulorogerio/pr2585/300.ts
 #EXTINF:0,AMC SD
 #EXTVLCOPT:network-caching=1000
 http://pfsv.io:80/paulorogerio/pr2585/325.ts
-#EXTINF:0,Animal Planet FHD
-#EXTVLCOPT:network-caching=1000
-http://pfsv.io:80/paulorogerio/pr2585/164.ts
-#EXTINF:0,Animal Planet FHD [H265]
-#EXTVLCOPT:network-caching=1000
-http://pfsv.io:80/paulorogerio/pr2585/30248.ts
-#EXTINF:0,Animal Planet HD
-#EXTVLCOPT:network-caching=1000
-http://pfsv.io:80/paulorogerio/pr2585/179.ts
-#EXTINF:0,Animal Planet SD
-#EXTVLCOPT:network-caching=1000
-http://pfsv.io:80/paulorogerio/pr2585/194.ts
-#EXTINF:0,Animal Planet [4K]
-#EXTVLCOPT:network-caching=1000
-http://pfsv.io:80/paulorogerio/pr2585/588.ts
+
 #EXTINF:0,Arte 1 FHD
 #EXTVLCOPT:network-caching=1000
 http://pfsv.io:80/paulorogerio/pr2585/165.ts
