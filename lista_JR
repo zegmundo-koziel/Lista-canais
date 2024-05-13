@@ -10,6 +10,1874 @@ http://pfsv.io:80/paulorogerio/pr2585/194.ts
 #EXTINF:-1 tvg-logo="http://i.imgur.com/n9ASqkP.png" group-title="Documentário",Animal Planet 4K
 http://pfsv.io:80/paulorogerio/pr2585/588.ts
 
+#EXTM3U
+#EXTINF:0,Max 01
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/47759
+#EXTINF:0,Max 02
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/47761
+#EXTINF:0,Max 03
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/47760
+#EXTINF:0,Max 04
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/139896
+#EXTINF:0,24h I Chaves 
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/40813
+#EXTINF:0,24h I Chaves Desenho
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/40818
+#EXTINF:0,A Mans o Foster para Amigos Imagin rios
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/71667
+#EXTINF:0,A Pantera Cor de Rosa
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/113089
+#EXTINF:0,A Pequena Sereia (1992)
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/49724
+#EXTINF:0,A Vaca e o Frango
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/71665
+#EXTINF:0,A&E FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/20253
+#EXTINF:0,A&E HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/236
+#EXTINF:0,A&E SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/235
+#EXTINF:0,Aeroporto Area Restrita USA
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/113092
+#EXTINF:0,AgroMais HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/48331
+#EXTINF:0,AgroMais SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/48332
+#EXTINF:0,Aladdin (1994)
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/42939
+#EXTINF:0,AMC HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/512
+#EXTINF:0,AMC SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/233
+#EXTINF:0,Animal Planet FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/20257
+#EXTINF:0,Animal Planet HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/232
+#EXTINF:0,Animal Planet SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/231
+#EXTINF:0,Arte 1 HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/136903
+#EXTINF:0,Arte 1 SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/136904
+#EXTINF:0,As Aventuras de Jackie Chan (2000)
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/49715
+#EXTINF:0,As Meninas Super Poderosas
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/86067
+#EXTINF:0,AXN FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/20234
+#EXTINF:0,AXN HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/535
+#EXTINF:0,AXN SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/227
+#EXTINF:0,Baby Looney Tunes
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/71663
+#EXTINF:0,Baby Looney Tunes
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/113214
+#EXTINF:0,Baby Looney Tunes (2002)
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/42942
+#EXTINF:0,BabyTV HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/226
+#EXTINF:0,BabyTV SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/225
+#EXTINF:0,Band Campinas HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/242
+#EXTINF:0,Band Campinas SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/241
+#EXTINF:0,Band News HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/224
+#EXTINF:0,Band News SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/223
+#EXTINF:0,Band SP HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/130
+#EXTINF:0,Band SP SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/129
+#EXTINF:0,Band Sports HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/221
+#EXTINF:0,Band Sports SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/220
+#EXTINF:0,Batman do Futuro
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/71661
+#EXTINF:0,Batman do Futuro (1999)
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/113216
+#EXTINF:0,Batman: 2004
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/71659
+#EXTINF:0,Batman: A S rie Animada
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/71657
+#EXTINF:0,Batman: Novas Aventuras
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/113088
+#EXTINF:0,Ben 10 Omniverse (2012)
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/86073
+#EXTINF:0,Ben 10 Supremacia Alienigena (2010)
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/86074
+#EXTINF:0,BestRadio Brasil
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/23673
+#EXTINF:0,Bis HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/219
+#EXTINF:0,BIs SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/218
+#EXTINF:0,Black Kamen Rider 24H
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/537
+#EXTINF:0,Bloomberg HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/49127
+#EXTINF:0,Bloomberg SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/49128
+#EXTINF:0,BM&C HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/136109
+#EXTINF:0,BM&C SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/136110
+#EXTINF:0,Boa Vontade TV HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/49115
+#EXTINF:0,Boa Vontade TV SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/49116
+#EXTINF:0,Bob Esponja 24H
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/40793
+#EXTINF:0,Bob Esponja: Canal 1
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/113087
+#EXTINF:0,Boomerang HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/217
+#EXTINF:0,Boomerang SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/216
+#EXTINF:0,Canal Brasil FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/20227
+#EXTINF:0,Canal Brasil HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/111747
+#EXTINF:0,Canal Brasil SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/111748
+#EXTINF:0,Canal CSI 24H
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/538
+#EXTINF:0,Canal do Boi HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/20467
+#EXTINF:0,Canal do Boi SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/49046
+#EXTINF:0,Canal Goat 1
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/139719
+#EXTINF:0,Canal Rural HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/49121
+#EXTINF:0,Canal Rural SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/49122
+#EXTINF:0,Can  o Nova HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/47755
+#EXTINF:0,Can  o Nova SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/47756
+#EXTINF:0,Capit o Planeta (1990)
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/49779
+#EXTINF:0,Cartoon Network FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/20267
+#EXTINF:0,Cartoon Network HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/524
+#EXTINF:0,Cartoon Network SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/204
+#EXTINF:0,Cartoonito HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/49052
+#EXTINF:0,Cartoonito SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/49053
+#EXTINF:0,CatDog
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/113086
+#EXTINF:0,Caverna do Drag o
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/46512
+#EXTINF:0,Caz  Tv 1 HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/137974
+#EXTINF:0,Caz  Tv 2 HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/138878
+#EXTINF:0,CDZ  Saga de Poseidon 24H
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/40787
+#EXTINF:0,CDZ  Saga de Poseidon 24H
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/40809
+#EXTINF:0,CDZ Saga de Asgard 24H
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/40788
+#EXTINF:0,CDZ Saga de Hades 24H
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/40789
+#EXTINF:0,CDZ Saga de Hades 24H
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/40811
+#EXTINF:0,CDZ Saga do Santuario  24H
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/40790
+#EXTINF:0,CDZ Saga do Santuario  24H
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/40812
+#EXTINF:0,Chapolin 2 24H
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/19541
+#EXTINF:0,Chaves 24H
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/40791
+#EXTINF:0,Chaves Desenho 24H
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/40798
+#EXTINF:0,Chris Country
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/23664
+#EXTINF:0,Cine Action 24H Ultra HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/548
+#EXTINF:0,Cine Drama 24H Ultra HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/550
+#EXTINF:0,Cine Family 24H
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/551
+#EXTINF:0,Cine Faroeste 24H Ultra HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/1478
+#EXTINF:0,Cine Fiction 24H Ultra HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/536
+#EXTINF:0,Cine Fun 24H Ultra HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/552
+#EXTINF:0,Cine Guerra 24H Ultra HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/1477
+#EXTINF:0,Cine Horror 24H Ultra HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/553
+#EXTINF:0,CINE KIDS 24H ULTRA HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/554
+#EXTINF:0,CINE Nacionais 24H
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/555
+#EXTINF:0,CINE SKY 01 HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/26714
+#EXTINF:0,CINE SKY 02 HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/26715
+#EXTINF:0,CINE SKY 03 HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/26716
+#EXTINF:0,CINE SKY 04 HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/26717
+#EXTINF:0,CINE SKY 05 HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/26718
+#EXTINF:0,CINE SKY 06 HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/26719
+#EXTINF:0,CINE SKY 07 HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/26720
+#EXTINF:0,CINE SKY 08 HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/26721
+#EXTINF:0,CINE SKY 09 HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/26722
+#EXTINF:0,Cine Terror
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/71528
+#EXTINF:0,Cinecanal FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/20245
+#EXTINF:0,Cinecanal HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/156
+#EXTINF:0,Cinecanal SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/155
+#EXTINF:0,Cinemax FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/36589
+#EXTINF:0,Cinemax HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/203
+#EXTINF:0,Cinemax SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/202
+#EXTINF:0,Clube da Crian a
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/23652
+#EXTINF:0,Cnn Brasil HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/8890
+#EXTINF:0,Cnn Brasil SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/8891
+#EXTINF:0,CNN International HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/49125
+#EXTINF:0,CNN International SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/49126
+#EXTINF:0,Combate FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/19526
+#EXTINF:0,Combate HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/201
+#EXTINF:0,Combate SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/200
+#EXTINF:0,Comedy Central FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/20263
+#EXTINF:0,Comedy Central HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/199
+#EXTINF:0,Comedy Central SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/198
+#EXTINF:0,Como eu Conheci a Sua Mae  24H
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/567
+#EXTINF:0,CONMEBOL PARAMOUNT+ 1 HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/18835
+#EXTINF:0,CONMEBOL PARAMOUNT+ 1 HD 
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/115481
+#EXTINF:0,CONMEBOL PARAMOUNT+ 1 SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/19039
+#EXTINF:0,CONMEBOL PARAMOUNT+ 2 HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/18836
+#EXTINF:0,CONMEBOL PARAMOUNT+ 2 HD 
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/115482
+#EXTINF:0,CONMEBOL PARAMOUNT+ 2 SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/19040
+#EXTINF:0,CONMEBOL PARAMOUNT+ 3 HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/18837
+#EXTINF:0,CONMEBOL PARAMOUNT+ 3 HD 
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/115483
+#EXTINF:0,CONMEBOL PARAMOUNT+ 3 SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/19041
+#EXTINF:0,CONMEBOL PARAMOUNT+ 4 HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/18838
+#EXTINF:0,CONMEBOL PARAMOUNT+ 4 HD 
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/115484
+#EXTINF:0,CONMEBOL PARAMOUNT+ 4 SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/19042
+#EXTINF:0,Coragem o C o Covarde
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/113085
+#EXTINF:0,Corrida Maluca
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/113079
+#EXTINF:0,Crimes que Viralizaram
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/113029
+#EXTINF:0,Cultura HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/197
+#EXTINF:0,Cultura SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/196
+#EXTINF:0,Curta! HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/213
+#EXTINF:0,Curta! SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/212
+#EXTINF:0, os Policiais do Futuro 24H" tvg-logo="https://painelsbo.painel.life/24rodrigo/2/Cybercop.png" group-title="24H ::: S RIES" - Cybercop, os Policiais do Futuro 24H
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/1479
+#EXTINF:0,Desenhos Cl ssicos
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/113066
+#EXTINF:0,Dick Vigarista
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/113084
+#EXTINF:0,Discovery Channel FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/20225
+#EXTINF:0,Discovery Channel HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/195
+#EXTINF:0,Discovery Channel SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/194
+#EXTINF:0,Discovery Home & Health FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/20265
+#EXTINF:0,Discovery Home & Health HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/191
+#EXTINF:0,Discovery Home & Health SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/190
+#EXTINF:0,Discovery Kids HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/189
+#EXTINF:0,Discovery Kids SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/188
+#EXTINF:0,Discovery Science FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/20258
+#EXTINF:0,Discovery Science HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/187
+#EXTINF:0,Discovery Science SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/186
+#EXTINF:0,Discovery Theater HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/185
+#EXTINF:0,Discovery Theater SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/184
+#EXTINF:0,Discovery Turbo FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/20266
+#EXTINF:0,Discovery Turbo HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/183
+#EXTINF:0,Discovery Turbo SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/182
+#EXTINF:0,Discovery World FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/20259
+#EXTINF:0,Discovery World HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/181
+#EXTINF:0,Discovery World SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/180
+#EXTINF:0,Disney Channel  HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/179
+#EXTINF:0,Disney Channel FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/20226
+#EXTINF:0,Disney Channel SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/178
+#EXTINF:0,DogTV HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/22987
+#EXTINF:0,DogTV SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/22988
+#EXTINF:0,Dois Homens e Meio
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/71560
+#EXTINF:0,Dr. House 2 24H
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/20461
+#EXTINF:0,Dragoes  24H
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/1480
+#EXTINF:0,Dragon Ball GT (1996)
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/113204
+#EXTINF:0,Dragon Ball GT 24H
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/40781
+#EXTINF:0,Dragon Ball GT 24H
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/40804
+#EXTINF:0,Dragon Ball Super 24H
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/40799
+#EXTINF:0,Dragon Ball X Freeza 24H
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/40777
+#EXTINF:0,Dragon Ball X Freeza 24H
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/40800
+#EXTINF:0,Dragon Ball Z Androides 24H
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/40778
+#EXTINF:0,Dragon Ball Z Androides 24H
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/40801
+#EXTINF:0,Dragon Ball Z Cell 24H
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/40802
+#EXTINF:0,Dragon Ball Z Cell 24H
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/40779
+#EXTINF:0,Dragon Ball Z Sayajins 24H
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/40780
+#EXTINF:0,Dragon Ball Z Sayajins 24H
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/40803
+#EXTINF:0,Duck Tales
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/113083
+#EXTINF:0,Ducktales 24H
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/40805
+#EXTINF:0,E! HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/516
+#EXTINF:0,E! SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/172
+#EXTINF:0,ELEVEN SPORTS 2 HD (PPV)
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/84508
+#EXTINF:0,ELEVEN SPORTS 3 HD (PPV)
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/84510
+#EXTINF:0,ELEVEN SPORTS 4 HD (PPV)
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/84513
+#EXTINF:0,ELEVEN SPORTS 5 HD (PPV)
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/84515
+#EXTINF:0,ELEVEN SPORTS 6 HD (PPV)
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/84517
+#EXTINF:0,ELEVEN SPORTS HD (PPV)
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/84506
+#EXTINF:0,EPTV Campinas FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/34094
+#EXTINF:0,EPTV Campinas HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/238
+#EXTINF:0,EPTV Campinas HD 2
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/246
+#EXTINF:0,EPTV Campinas SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/237
+#EXTINF:0,ESPN HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/27272
+#EXTINF:0,ESPN SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/27273
+#EXTINF:0,ESPN  2 HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/167
+#EXTINF:0,ESPN  2 SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/166
+#EXTINF:0,ESPN  3 HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/171
+#EXTINF:0,ESPN  3 SD 
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/170
+#EXTINF:0,ESPN 4 FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/20310
+#EXTINF:0,ESPN 4 HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/147
+#EXTINF:0,ESPN 4 SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/146
+#EXTINF:0,ESPN 5  FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/20311
+#EXTINF:0,ESPN 5  HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/529
+#EXTINF:0,ESPN 5  SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/148
+#EXTINF:0,ESPN 6 HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/165
+#EXTINF:0,ESPN 6  SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/164
+#EXTINF:0,Eu a Patroa e as Criancas
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/123893
+#EXTINF:0,Eurochannel HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/48340
+#EXTINF:0,Eurochannel SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/48341
+#EXTINF:0,Familia da Pesada 24H
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/1481
+#EXTINF:0,Familia Dinossauro  24H
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/569
+#EXTINF:0,Fashion TV HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/48333
+#EXTINF:0,Fashion TV SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/48334
+#EXTINF:0,FFH The 80's
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/28021
+#EXTINF:0,Film&Arts HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/163
+#EXTINF:0,Film&Arts SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/162
+#EXTINF:0,Fish TV FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/20256
+#EXTINF:0,Fish TV HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/525
+#EXTINF:0,Fish TV SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/161
+#EXTINF:0,Food Network HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/158
+#EXTINF:0,Food Network SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/159
+#EXTINF:0,France 24 HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/48347
+#EXTINF:0,France 24 SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/48348
+#EXTINF:0,Freakazoid
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/113082
+#EXTINF:0,Friends 24H Ultra HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/40795
+#EXTINF:0,Funk - Americano
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/23540
+#EXTINF:0,Futura HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/211
+#EXTINF:0,Futura SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/210
+#EXTINF:0,Futurama
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/113064
+#EXTINF:0,FX FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/20275
+#EXTINF:0,FX HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/145
+#EXTINF:0,FX SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/144
+#EXTINF:0,Galinha Pintadinha 24H
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/1476
+#EXTINF:0,Gln Tv
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/71748
+#EXTINF:0,Globo - INTER TV CABUGI
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/51601
+#EXTINF:0,GLOBO BRASILIA HD*
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/50312
+#EXTINF:0,GLOBO EPTV CAMPINAS HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/50272
+#EXTINF:0,GLOBO EPTV SUL MINAS HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/50258
+#EXTINF:0,GLOBO GRANDE MINAS HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/50259
+#EXTINF:0,GLOBO MINAS HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/50261
+#EXTINF:0,GLOBO NORDESTE HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/50263
+#EXTINF:0,GLOBO NSC FLORIANOPOLIS HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/50264
+#EXTINF:0,GLOBO RBS PORTO ALEGRE HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/50282
+#EXTINF:0,GLOBO RBS PORTO ALEGRE HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/50265
+#EXTINF:0,GLOBO RBS PORTO ALEGRE HD*
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/50338
+#EXTINF:0,GLOBO REDE AMAZONICA RONDONIA HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/50286
+#EXTINF:0,GLOBO RJ HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/50266
+#EXTINF:0,GLOBO RPC CURITIBA HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/50287
+#EXTINF:0,GLOBO SP HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/50267
+#EXTINF:0,GLOBO TV ANHANGUERA HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/50292
+#EXTINF:0,GLOBO TV BAHIA HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/50293
+#EXTINF:0,GLOBO TV BAHIA HD*
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/50349
+#EXTINF:0,GLOBO TV VANG. S.J. CAMPOS HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/50307
+#EXTINF:0,GLOBO TV VITORIA HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/50309
+#EXTINF:0,GloboNews HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/143
+#EXTINF:0,GloboNews SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/142
+#EXTINF:0,Gloob HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/530
+#EXTINF:0,Gloob SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/140
+#EXTINF:0,GNT HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/139
+#EXTINF:0,GNT SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/138
+#EXTINF:0,Greatest Hits of Hip Hop
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/23541
+#EXTINF:0,H2 FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/20260
+#EXTINF:0,H2 HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/137
+#EXTINF:0,H2 SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/523
+#EXTINF:0,HBO 2 FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/19528
+#EXTINF:0,HBO 2 HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/135
+#EXTINF:0,HBO 2 SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/134
+#EXTINF:0,HBO Family FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/19530
+#EXTINF:0,HBO Family HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/133
+#EXTINF:0,HBO Family SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/132
+#EXTINF:0,HBO FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/19527
+#EXTINF:0,HBO HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/131
+#EXTINF:0,HBO Mundi FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/20316
+#EXTINF:0,HBO Mundi HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/521
+#EXTINF:0,HBO Mundi SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/112
+#EXTINF:0,HBO Plus FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/19529
+#EXTINF:0,HBO Plus HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/128
+#EXTINF:0,HBO Plus SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/127
+#EXTINF:0,HBO Pop FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/19532
+#EXTINF:0,HBO Pop HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/111
+#EXTINF:0,HBO Pop SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/110
+#EXTINF:0,HBO SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/126
+#EXTINF:0,HBO Signature FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/19531
+#EXTINF:0,HBO Signature HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/531
+#EXTINF:0,HBO Signature SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/124
+#EXTINF:0,HBO Xtreme FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/20317
+#EXTINF:0,HBO Xtreme HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/520
+#EXTINF:0,HBO Xtreme SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/113
+#EXTINF:0,HGTV HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/193
+#EXTINF:0,HGTV SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/192
+#EXTINF:0,History Channel FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/20231
+#EXTINF:0,History Channel HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/532
+#EXTINF:0,History Channel SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/122
+#EXTINF:0,Hits 90's
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/23534
+#EXTINF:0,ID FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/20254
+#EXTINF:0,ID HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/121
+#EXTINF:0,ID SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/120
+#EXTINF:0,Investiga  o Extraterrestre 
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/113025
+#EXTINF:0,Jaspion 24H
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/570
+#EXTINF:0,Johnny Bravo
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/113223
+#EXTINF:0,Johnny Bravo (1997)
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/42938
+#EXTINF:0,Jovem Pan FM Piracicaba
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/23662
+#EXTINF:0,Jovem Pan News HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/47532
+#EXTINF:0,Jovem Pan News SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/47533
+#EXTINF:0,Kick Buttowski: Um Projeto de Dubl 
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/113077
+#EXTINF:0,Kim Possible (2002)
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/42935
+#EXTINF:0,KND - A Turma do Bairro
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/113076
+#EXTINF:0,Largados e Pelados Latinos
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/127364
+#EXTINF:0,Largados e Pelados S01
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/51879
+#EXTINF:0,Largados e Pelados S02
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/51880
+#EXTINF:0,Largados e Pelados S03
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/51881
+#EXTINF:0,Largados e Pelados S04
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/51882
+#EXTINF:0,Largados e Pelados: Sozinhos
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/113027
+#EXTINF:0, Pelados e Apaixonados" tvg-logo="https://painelsbo.painel.life/logosiptv/discoverymais/novos/apaixonados.png" group-title="24H ::: DISCOVERY+ " - Largados, Pelados e Apaixonados
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/127363
+#EXTINF:0, Pelados e Congelados" tvg-logo="https://painelsbo.painel.life/logosiptv/discoverymais/novos/congelados.png" group-title="24H ::: DISCOVERY+ " - Largados, Pelados e Congelados
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/127362
+#EXTINF:0, Pelados e Solitarios" tvg-logo="https://painelsbo.painel.life/logosiptv/discoverymais/novos/solitarios.png" group-title="24H ::: DISCOVERY+ " - Largados, Pelados e Solitarios
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/127361
+#EXTINF:0,Lifetime FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/20252
+#EXTINF:0,Lifetime HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/522
+#EXTINF:0,Lifetime SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/118
+#EXTINF:0,LOADING HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/48350
+#EXTINF:0,LOADING SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/48351
+#EXTINF:0,MAIS NA TELA HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/48377
+#EXTINF:0,MAIS NA TELA SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/48378
+#EXTINF:0,Markket HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/52363
+#EXTINF:0,Markket SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/52365
+#EXTINF:0,MARVEL & DC 24H
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/545
+#EXTINF:0,Megapix HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/109
+#EXTINF:0,Megapix SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/108
+#EXTINF:0,Modo Viagem HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/117
+#EXTINF:0,Modo Viagem SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/116
+#EXTINF:0,MR. Bean 24H
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/546
+#EXTINF:0,Mr. Pickles
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/113065
+#EXTINF:0,MTV 00s FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/20262
+#EXTINF:0,MTV 00s HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/8
+#EXTINF:0,MTV 00s SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/7
+#EXTINF:0,MTV FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/20261
+#EXTINF:0,MTV HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/519
+#EXTINF:0,MTV Live HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/20465
+#EXTINF:0,MTV LIVE SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/48337
+#EXTINF:0,MTV SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/106
+#EXTINF:0,Mucha Lucha (2002)
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/86090
+#EXTINF:0,Multishow HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/105
+#EXTINF:0,Multishow SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/104
+#EXTINF:0,Mundo de Gunball 24H
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/40785
+#EXTINF:0,Mundo de Gunball 24H
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/40807
+#EXTINF:0,Muquiranas
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/113090
+#EXTINF:0,Music Box Brazil HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/48342
+#EXTINF:0,Music Box Brazil SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/48343
+#EXTINF:0,Naruto 24H
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/564
+#EXTINF:0,National Geographic FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/20272
+#EXTINF:0,National Geographic HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/99
+#EXTINF:0,National Geographic SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/98
+#EXTINF:0,NBA - 01
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/134491
+#EXTINF:0,NBA - 02
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/134492
+#EXTINF:0,NBA - 03
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/134493
+#EXTINF:0,NBA - 04
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/134494
+#EXTINF:0,NHK HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/97
+#EXTINF:0,NHK SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/96
+#EXTINF:0,Nick Jr. FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/20314
+#EXTINF:0,Nick Jr. HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/95
+#EXTINF:0,Nick Jr. SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/94
+#EXTINF:0,Nickelodeon FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/20313
+#EXTINF:0,Nickelodeon HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/93
+#EXTINF:0,Nickelodeon SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/92
+#EXTINF:0,No Rastro do P -Grande
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/113026
+#EXTINF:0,Nosso Futebol 1 HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/85681
+#EXTINF:0,Nosso Futebol 2 HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/85682
+#EXTINF:0,Nosso Futebol 3 HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/85683
+#EXTINF:0,Nosso Futebol 4 HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/85684
+#EXTINF:0,Nova Brasil FM Campinas
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/23671
+#EXTINF:0,O Laborat rio de Dexter (1996)
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/49781
+#EXTINF:0,O Misterioso Tri ngulo Do Alasca 
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/113028
+#EXTINF:0,O Pequeno Urso (1995)
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/49773
+#EXTINF:0,O Show da Luna (2014)
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/49801
+#EXTINF:0,OFF HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/209
+#EXTINF:0,OFF SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/208
+#EXTINF:0,Opera  o Fronteira
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/129975
+#EXTINF:0,Os 3 patetas 24H
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/19540
+#EXTINF:0,Os Flinstons
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/113075
+#EXTINF:0,Os Jetsons (1962)
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/86129
+#EXTINF:0,Os Jovens Titas (2003)
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/86096
+#EXTINF:0,Os Padrinhos Magicos (2001)
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/49720
+#EXTINF:0,Os Simpsons 24H
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/563
+#EXTINF:0,Os Vingadores 24H
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/1482
+#EXTINF:0,Pai Eterno HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/23850
+#EXTINF:0,Paramount Channel FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/20264
+#EXTINF:0,Paramount Channel HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/91
+#EXTINF:0,Paramount Channel SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/90
+#EXTINF:0,Paulist o Play 1
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/137941
+#EXTINF:0,Paulist o Play 2
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/137942
+#EXTINF:0,Peppa Pig 24H
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/562
+#EXTINF:0,Pernalonga e Sua Turma
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/113074
+#EXTINF:0,Pinky e o C rebro
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/113080
+#EXTINF:0,Pinky Fel cia e o C rebro
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/113081
+#EXTINF:0,Playboy FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/20315
+#EXTINF:0,Playboy HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/88
+#EXTINF:0,Playboy SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/87
+#EXTINF:0,Pocoyo 24H
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/561
+#EXTINF:0,Pokemon 24H
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/560
+#EXTINF:0,Polishop TV HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/49113
+#EXTINF:0,Polishop TV SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/49114
+#EXTINF:0,Premiere 1 HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/86
+#EXTINF:0,Premiere 1 HD 
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/247
+#EXTINF:0,Premiere 1 HD 
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/46681
+#EXTINF:0,Premiere 1 SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/85
+#EXTINF:0,Premiere 2 HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/13216
+#EXTINF:0,Premiere 2 HD 
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/1462
+#EXTINF:0,Premiere 2 SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/83
+#EXTINF:0,Premiere 3 HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/82
+#EXTINF:0,Premiere 3 HD 
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/1463
+#EXTINF:0,Premiere 3 SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/81
+#EXTINF:0,Premiere 4 HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/80
+#EXTINF:0,Premiere 4 HD 
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/1464
+#EXTINF:0,Premiere 4 SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/79
+#EXTINF:0,Premiere 5 HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/78
+#EXTINF:0,Premiere 5 HD 
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/1465
+#EXTINF:0,Premiere 5 SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/77
+#EXTINF:0,Premiere 6 HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/76
+#EXTINF:0,Premiere 6 SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/75
+#EXTINF:0,Premiere 7 HD 
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/1467
+#EXTINF:0,Premiere 7 SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/74
+#EXTINF:0,Prime Box Brazil HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/48344
+#EXTINF:0,Prime Box Brazil SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/48345
+#EXTINF:0,Prime Video 1 HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/51877
+#EXTINF:0,Prime Video 2 HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/51878
+#EXTINF:0,Prime Video 3 HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/115201
+#EXTINF:0,Projeto Zeta
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/113073
+#EXTINF:0,Radio Mania FM
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/23678
+#EXTINF:0,Radio Mod o Sertanejo
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/23658
+#EXTINF:0,RAI HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/49117
+#EXTINF:0,RAI SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/49118
+#EXTINF:0,Rap - Internacional
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/23538
+#EXTINF:0,RECORD BAHIA HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/50368
+#EXTINF:0,Record BH HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/50369
+#EXTINF:0,Record Campinas  HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/240
+#EXTINF:0,Record Campinas  HD 2
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/68
+#EXTINF:0,Record Campinas  SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/239
+#EXTINF:0,RECORD DF HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/50370
+#EXTINF:0,RECORD MG HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/50372
+#EXTINF:0,Record News HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/67
+#EXTINF:0,Record News SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/66
+#EXTINF:0,RECORD PA HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/50373
+#EXTINF:0,RECORD RJ HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/50374
+#EXTINF:0,RECORD RS HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/50375
+#EXTINF:0,Record SP HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/65
+#EXTINF:0,RECORD SP HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/50376
+#EXTINF:0,Record SP SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/64
+#EXTINF:0,Rede Brasil de Comunica  o
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/83869
+#EXTINF:0,Rede Clone Tv
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/71751
+#EXTINF:0,Rede Fam lia SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/48346
+#EXTINF:0,Rede Fam lia SHD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/31823
+#EXTINF:0,Rede Gospel
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/83868
+#EXTINF:0,Rede Vida HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/62
+#EXTINF:0,Rede Vida SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/63
+#EXTINF:0,RedeTV HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/61
+#EXTINF:0,RedeTV SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/60
+#EXTINF:0,R  -Tim Bum- HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/70
+#EXTINF:0,R - Tim- Bum SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/69
+#EXTINF:0,R dio 105 FM
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/23674
+#EXTINF:0,R dio Antena 1 S o Paulo
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/23659
+#EXTINF:0,R dio Coring o
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/23660
+#EXTINF:0,R dio Hunter FM Sertanejo
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/23657
+#EXTINF:0,R dio Samba FM
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/23654
+#EXTINF:0,Sabor & Arte HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/48329
+#EXTINF:0,Sabor & Arte SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/48330
+#EXTINF:0,Samurai Jack (2001)
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/86104
+#EXTINF:0,SBT HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/59
+#EXTINF:0,SBT HD Alternativo
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/73185
+#EXTINF:0,SBT SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/58
+#EXTINF:0,Scooby-Doo
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/113072
+#EXTINF:0,Scooby-Doo e os 13 Fantasmas
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/113071
+#EXTINF:0,Scooby-Doo: O Que H  de Novo?
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/113070
+#EXTINF:0,Sextreme HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/57
+#EXTINF:0,Sextreme SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/56
+#EXTINF:0,Sexy Hot HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/55
+#EXTINF:0,Sexy Hot SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/54
+#EXTINF:0,Sony Channel FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/20233
+#EXTINF:0,Sony Channel HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/53
+#EXTINF:0,Sony Channel SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/52
+#EXTINF:0,Space FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/20271
+#EXTINF:0,Space HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/51
+#EXTINF:0,Space SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/50
+#EXTINF:0,SporTV 2 HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/47
+#EXTINF:0,SporTV 2 SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/46
+#EXTINF:0,SporTV 3 HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/45
+#EXTINF:0,SporTV 3 SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/44
+#EXTINF:0,SporTV HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/49
+#EXTINF:0,SporTV SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/48
+#EXTINF:0,Star Channel FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/20274
+#EXTINF:0,Star Channel HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/157
+#EXTINF:0,Star Channel SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/150
+#EXTINF:0,Star+ 1 HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/46598
+#EXTINF:0,Star+ 2 HD 
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/46599
+#EXTINF:0,Studio Universal HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/43
+#EXTINF:0,Studio Universal SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/42
+#EXTINF:0,Super Amigos (1973)
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/49739
+#EXTINF:0,Superman A S rie Animada (1996)
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/49763
+#EXTINF:0,S tio do Pica Pau Amarelo 24H
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/40796
+#EXTINF:0,S tio do Pica Pau Amarelo 24H
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/40817
+#EXTINF:0,TCM HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/37
+#EXTINF:0,TCM SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/36
+#EXTINF:0,Telecine Action FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/20247
+#EXTINF:0,Telecine Action HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/35
+#EXTINF:0,Telecine Action SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/34
+#EXTINF:0,Telecine Cult FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/20246
+#EXTINF:0,Telecine Cult HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/33
+#EXTINF:0,Telecine Cult SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/32
+#EXTINF:0,Telecine Fun FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/20248
+#EXTINF:0,Telecine Fun HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/31
+#EXTINF:0,Telecine Fun SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/30
+#EXTINF:0,Telecine Pipoca FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/20230
+#EXTINF:0,Telecine Pipoca HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/29
+#EXTINF:0,Telecine Pipoca SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/28
+#EXTINF:0,Telecine Premium FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/20228
+#EXTINF:0,Telecine Premium HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/27
+#EXTINF:0,Telecine Premium SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/26
+#EXTINF:0,Telecine Touch FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/20229
+#EXTINF:0,Telecine Touch HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/25
+#EXTINF:0,Telecine Touch SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/24
+#EXTINF:0,Terra Viva HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/49048
+#EXTINF:0,Terra Viva SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/49049
+#EXTINF:0,The Backyardigans 24H
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/40786
+#EXTINF:0,The Backyardigans 24H
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/40808
+#EXTINF:0,The Big Bang Theory 24H
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/543
+#EXTINF:0,The Walking Dead (2010)
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/112838
+#EXTINF:0,ThunderCats (2011)
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/49741
+#EXTINF:0,ThunderCats 24H Ultra HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/40794
+#EXTINF:0,ThunderCats 24H Ultra HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/40815
+#EXTINF:0,Tico e Teco e os Defensores da Lei
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/113068
+#EXTINF:0,Tim o e Pumba (1995)
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/86137
+#EXTINF:0,TLC HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/23
+#EXTINF:0,TLC SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/22
+#EXTINF:0,TNT FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/20270
+#EXTINF:0,TNT HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/21
+#EXTINF:0,TNT HD 
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/13873
+#EXTINF:0,TNT Novelas HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/122056
+#EXTINF:0,TNT Novelas SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/122057
+#EXTINF:0,TNT SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/20
+#EXTINF:0,Tnt Sports HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/138673
+#EXTINF:0,TNT S ries FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/20269
+#EXTINF:0,TNT S ries HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/517
+#EXTINF:0,TNT S ries SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/18
+#EXTINF:0,Todo Mundo Odeia o Cris
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/317
+#EXTINF:0,Tom & Jerry  24H
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/557
+#EXTINF:0,Tom e Jerry (1975)
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/49768
+#EXTINF:0,Tooncast HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/17
+#EXTINF:0,Tooncast SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/16
+#EXTINF:0,Trace Brazuca HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/20468
+#EXTINF:0,Trace Brazuca SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/20469
+#EXTINF:0,Travel Box Brazil HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/48335
+#EXTINF:0,Travel Box Brazil SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/48336
+#EXTINF:0,Tr s Espi s Demais!
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/113067
+#EXTINF:0,TV Aparecida HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/15
+#EXTINF:0,TV Aparecida SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/14
+#EXTINF:0,TV Brasil  HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/47534
+#EXTINF:0,TV Brasil 2 HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/49111
+#EXTINF:0,TV Brasil 2 SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/49112
+#EXTINF:0,TV Brasil FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/20308
+#EXTINF:0,TV Brasil SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/47535
+#EXTINF:0,TV Centro Am rica Cuiab  (ST)*
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/51596
+#EXTINF:0,TV Evangelizar
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/83867
+#EXTINF:0,TV Gazeta FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/49239
+#EXTINF:0,TV Gazeta HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/27160
+#EXTINF:0,Tv Gazeta SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/22948
+#EXTINF:0,Tv Globinho  HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/215
+#EXTINF:0,Tv Globinho SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/214
+#EXTINF:0,Tv Justi a
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/23531
+#EXTINF:0,Tv Justi a
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/27436
+#EXTINF:0,TV Novo Tempo HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/20464
+#EXTINF:0,TV NOVO TEMPO HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/48339
+#EXTINF:0,TV NOVO TEMPO SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/48338
+#EXTINF:0,TV Padre Cicero
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/83872
+#EXTINF:0,Tv Senado
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/23532
+#EXTINF:0,Tv Senado
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/27437
+#EXTINF:0,TV WA HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/49120
+#EXTINF:0,TV WA SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/49119
+#EXTINF:0,TV5 HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/49129
+#EXTINF:0,TV5 SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/49130
+#EXTINF:0,Two And a Half Man 24H
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/542
+#EXTINF:0,UFC FIGHT PASS HD 
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/83359
+#EXTINF:0,UFC FIGHT PASS HD 2
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/86148
+#EXTINF:0,Um Maluco no Peda o
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/113012
+#EXTINF:0,Universal Channel FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/20249
+#EXTINF:0,Universal Channel HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/13215
+#EXTINF:0,Universal Channel SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/11
+#EXTINF:0,USA Network FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/20255
+#EXTINF:0,USA Network HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/41
+#EXTINF:0,USA Network SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/40
+#EXTINF:0,Venus HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/10
+#EXTINF:0,Venus SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/9
+#EXTINF:0,Vikings (2013)
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/112840
+#EXTINF:0,Viva HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/6
+#EXTINF:0,Viva SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/5
+#EXTINF:0,V deos Paranormais
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/113091
+#EXTINF:0,Warner Channel FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/20232
+#EXTINF:0,Warner Channel HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/4
+#EXTINF:0,Warner Channel SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/3
+#EXTINF:0,Woohoo HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/207
+#EXTINF:0,Woohoo SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/206
+#EXTINF:0,Youtube Tv 1
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/139330
+#EXTINF:0,ZooMoo HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/2
+#EXTINF:0,ZooMoo SD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/1
+#EXTINF:0,Rede Brasil TV
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/139908
+#EXTINF:0,Dubai Sports 1 HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/51871
+#EXTINF:0,Dubai Sports 2 HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/51872
+#EXTINF:0,Tv Real Madri HD
+#EXTVLCOPT:network-caching=1000
+http://dns.maxptv.net:2052/max491/19994255887/138331
+
 
 
 
